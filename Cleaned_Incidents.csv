@@ -1,0 +1,946 @@
+Incident_ID,Date,Department,Model,Sub_Assembly,Incident_Description
+24-041,2024-02-22 00:00:00,Customer Service,AS,Bike Accessories,"Incorrect tie rod shipped on O24-21589, tech drove to school to make repair and found it the incorrect length, too short. Likely a standard AS2000 tie rod was shipped. Order manf notes listed SN and AS2000EXT. Repl order placed. "
+24-059,2024-03-26 00:00:00,Customer Service,,,Grip short shipped on O24-21799
+24-064,2024-04-01 00:00:00,Customer Service,,,Short shipped grip
+24-071,2024-04-05 00:00:00,Customer Service,Multiple,Bike Accessories,"We sent a pair of crank arm shorteners to Motion Kitchener, their tech drove out to a school to install only to find out the hole is too small for the middle bolt to fit. I checked numbers otheres and found the same issue. Sending no charge replacement with enlarged hole. "
+22-000,2022-12-01 00:00:00,Production,ASR,,"Example Incident: On November 28, 2022, a bike order was shipped without a crate. Damaged bike delivered to customer. Replacement bike order O22-10001. "
+22-001,2022-12-08 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,"I have had two reports this month regarding the COC rocker base. When installing, the threaded rod inserted into the black bar has pulled out. One was from O22-16822, the other from O22-16854. (photos will be in email attachment )"
+22-002,2022-12-08 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,"I have had two reports this month regarding the COC rocker base. When installing, the threaded rod inserted into the black bar has pulled out. One was from O22-16822, the other from O22-16854. (photos will be in email attachment )"
+22-003,2022-12-08 00:00:00,Customer Service,DCP,Bike Accessories,"O22-17336-W0Y0 was received by Align Home Health, reported that order was shorted one strap.                   O22-17448-B3G1 was submitted for a replacement strap"
+22-004,2022-12-08 00:00:00,Customer Service,DCP,Bike Seating,"O22-16769-Y9R8  bike was received with damage on the 22"" highback, not elegible for freight claim.                                    O22-17288 was submitted for a replacement 22"" highback, a standard 18"" highback was picked and shipped.   O22-17390 was submitted - issue resolved."
+22-005,2022-12-08 00:00:00,Customer Service,ASR,Bike Drive Train,"O21-13600-K1F3 ASR2011 SN2211086 - Vendor contacted us, said the pedals are moving but the chain is not. Determined the chain ring was no longer connected to crank arm and spinning freely.                                                          O22-17485-Q3F1 order submitted for replacement crank."
+22-006,2022-12-08 00:00:00,Customer Service,ASR,Bike Drive Train,O22-16738-G3V4 - ASR2011 shipped late September and chain broke when out for a ride. O22-17666-D8S9 order was submitted for replacement chain and chain brake tool. Images attached to email.
+22-007,2022-12-08 00:00:00,Customer Service,ASR,Bike Steering,"O22-17020-F4X5   Order included a t-bar kit, only the tbar itself was shipped. Customer and ourselves did not realize the error until the tech drove out to the school to make the install, and found he needed more parts. "
+22-008,2022-12-08 00:00:00,Customer Service,,Bike Accessories,"O22-16769-Y9R8 - Motion Ottawa reported trainer not with bike when received. To be fair, the bike was delivered Octover 17th and only reported missing Nov 30th, it is possible was delivered but lost at destination. Serial number photos don’t indicate the trainer shipping with the bike, we have no proof either way.     O22-17700 - Sent no charge replacement. "
+22-009,2022-12-08 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,"O22-17609-N9K3  - Flat packed rocker base shipped to customer, she phoned because a few of the threaded insert in the cross bars was poose and pulling out. Washers sent with kit were also the incorrect size and too small to fit over the threaded rods. Customer had installed handle and says was unable to remove. O22-17718-F6K4 - replacement order for parts.  "
+22-010,2022-12-08 00:00:00,Customer Service,,Bike Steering,"Rear steer kit was sent out to customer on O22-17598-Q2Z7, arrived with package damaged and rear steer tab paint damage (images in email). Customer requested replacement part, sent on O22-17734-C7H7. "
+22-011,2022-12-08 00:00:00,Customer Service,ET2611,Bike Drive Train,"Customer reported chain has come off ET2611, sent photos and confirmed. Appears tensioner may have failed as it is pitched upwards past frame, ET2611 chain tension and length service bulletin likely apply. O22-17768 created w/ replacement parts. A local shop ""bikeworkz"" was able to make the repairs. According to them, the inside sprocket was not attached and the clip had some loose. "
+22-012,2022-12-08 00:00:00,Production,Chill-Out Chair,COC Foam,Foam order came in - Mak noticed two ottomans do not fit the FCI size template. Also noticed that there is a seam between the ottoman. Looks like two pieces were cut and glued together
+22-013,2022-12-08 00:00:00,Customer Service,AS,Bike Accessories,"Order was placed for a sun shade canopy, two errors have occured. #1 - the AS2600 did not have an headrest extension required for the sunshade, no quoted not ordered.  #2 - the sunshade was billed and shipped, along with a headrest extension but no harware, thumbwheels etc were sent. Unknown how we knew to ship a headrest with the order, but not sent as a kit and never billed on an order.  Replacement order O22-17774-S5M4"
+22-014,2022-12-09 00:00:00,Shipping,Chill-Out Chair,COC Accessories,Picked up alluminum slider for rocker roller tilt base and it split in half like butter. Dec 13 Dirk is taking broken piece back to NJI
+22-015,2022-12-12 00:00:00,Production,DCP,Bike Steering,"DCP tierod threads damaged, front end; threads painted rear end"
+22-016,2022-12-13 00:00:00,Production,DCP,Bike Steering,DCP tierod improper taping for paint; threads painted on front end; could not clean
+22-017,2022-12-14 00:00:00,Customer Service,,Bike Accessories,"Customer phoned wanting to know why they had yet to recieve the decal. There was a parts order submitted for a nameplate and decal, on the order there are no notes indicating what name is supposed to be on the decal. Somehow Sarah did get the decal printed and was picked up when ready. When I spoke with Elaine, she was not aware of what decal was supposed to be on the order, no notes on order, and theirfore the order had not moved forward even though the decal had been recieved the prev week."
+22-018,2022-12-16 00:00:00,Customer Service,,Bike Drive Train,"Order was placed by Numotion for a hub kit to add to an AS2000. The hub kit was sent out only having one chain ring installed, hub had not been modified to work. Replacement order O22-17733 was sent."
+22-019,2022-12-16 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,"COC not shipped with ottoman support kit or pushbar, pushbar was never installed on chair was shipped un-noticed. Replacement sent on O22-17805     No SN photos to verify"
+22-020,2022-12-16 00:00:00,Customer Service,DCP,Bike Accessories,"DCP12 shippeg with out pig horn.   Does not sound like a big issue however in this instance mom was very upset. Mom was worried the pig horn would not come with the bike, so Tom pulled one and saved it at his desk to make sure we did not run out and could keep our word. In the end the bike shipped with out the pig or any horn. Replacement order O22-17811-S7T0.    No SN photos to verify. "
+22-021,2022-12-16 00:00:00,Customer Service,DCP,Bike Drive Train,"Order for replacement hub sent out with one chain ring, was not modified before shipping. The hub was also sent out as a hub only, not a kit. A hub kit which has been modified is needed for this to work on the bike. Incorrect part was ordered, and unmodified part shipped. New order O22-17890"
+22-022,2022-12-16 00:00:00,Production,Chill-Out Chair,COC Accessories,"Rusty notified me of a XLW chair part tube (3440550) was not circular, the tube that was used to create this seems to be oval/squished, which led to the chrome tubve to not slide in and out. Rusty pulled 6 other parts with the same issue. There was a custom chair that was returned that had an XLW chair, and will be using those parts for this order. Fab has been notified of the issue, and a path forward to fix what is on the shelf has been implemented."
+22-023,2022-12-16 00:00:00,Customer Service,AS,Bike Seating,"A local bike in Winnipeg reported to have a failed seat frame, top weld / material fail. Quoted repair. "
+22-024,2022-12-19 00:00:00,Shipping,DCP,Bike Brakes,Many DCP brake Levers are not being bent to allow space to pull the lever and push lock pin.
+22-025,2022-12-19 00:00:00,Production,DCP,Bike Steering,"DCP tierod threads damaged, front end. Cleaned with thread chaser"
+22-026,2022-12-19 00:00:00,Production,DCP,Bike Steering,"DCP tierod threads damaged, front end. Cleaned with disc sander"
+22-027,2022-12-20 00:00:00,Production,,Bike Steering,Rear Steer handle damaged threads. Fixed with disc sander
+22-028,2022-12-20 00:00:00,Production,DCP,Bike Steering,"DCP tierod threads damaged, rear end. Cleaned with disc sander"
+22-029,2022-12-22 00:00:00,Customer Service,DCP,Bike Seating,Customer reported top weld on seatframe has failed. Replacement part on O22-17888
+22-030,2022-12-22 00:00:00,Customer Service,,,"two weeks to produce shipping docs for Customer requested return freight shipping docs on Dec 1st, advised by Chantal she didnt have time to complete until tomorrow. Customer called back again Dec 15th saying he still has not recieved return shipping docs, Chantal was able to get docs emailed over in under an hour. "
+22-031,2022-12-22 00:00:00,Customer Service,,,"Customer had a physically damaged twist shifter, order O22-17253 was submitted w/ a note ""Only send twist shifter with cable. No hub req.""   Customer phoned after installing the new hub we incorectly sent, asking how to fix the shifter, he said a hub kit was sent with everything except the twist shift. We DID NOT send a shifter, instead of ONLY sending a shifter. Replacement parts order O22-17847 submitted."
+23-001,2023-01-03 00:00:00,Customer Service,DCP,Bike Drive Train,"Numotion reported a bent crank chain ring on delivery, not noticed or signed for. Sent replacement part on O23-17917"
+23-002,2023-01-04 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,Customer reports the center buckle for their chest harness has failed and no longer holding. Chest harness is custom ordered. Repalcemtn part on O23-17959.
+23-003,2023-01-04 00:00:00,Production,DCP,Bike Steering,DCP tierod threads damaged. Cleaned with thread chaser.
+23-004,2023-01-05 00:00:00,Production,DCP,Bike Steering,DCP tierod threads damaged. Had to tap using ball joint and lubricate.
+23-005,2023-01-11 00:00:00,Shipping,Chill-Out Chair,COC Foam,"7 large ottomans dont meet the height, length, width requirments. 6 dont meet the height/length requirments and 1 does not meet the Width Requirment. "
+23-006,2023-01-12 00:00:00,Production,AS,Bike Steering,AS tierod threads messed. Was able to clean with hand file.
+23-007,2023-01-13 00:00:00,Production,DCP,Bike Steering,DCP tierod threads damaged. Cleaned with hand file.
+23-008,2023-01-13 00:00:00,Production,DCP,Bike Steering,DCP tierod threads covered in paint. Tapped with jam nut.
+23-009,2023-01-16 00:00:00,Production,Multiple,Bike Seating,"Some bikes, Quick releases are not being tightend. Was able to freely move seat while quick releases are closed. "
+23-010,2023-01-23 00:00:00,Customer Service,DCP,Bike Drive Train,"DCPmini - new delivery and needed to remove crank shorteners to brink kids feet more inwards. Was able to remove one side of the shortener with no problem, the other side crank arm shortener bolt got stuck half way while removing. Customer had husband holding bike while she tried to remove, it was stuck. Customer took bike to a bike shop who was able to remove the bolt however says that a lot of threads came out with the bolt and the crank arm was damaged. Replacement parts order O23-18001"
+23-011,2023-01-18 00:00:00,Production,ASR,Bike Steering,Flash marks on welded cables creating rough spots and frays. Poked myself but didn't bleed.
+23-012,2023-01-18 00:00:00,Production,ET,Bike Steering,Flash marks on welded cables creating rough spots and frays.
+23-013,2023-01-18 00:00:00,Production,DCP,Bike Drive Train,Flash spots on bottom bracket shells caused thread stripping on cartridges. Scrapped 2 cartridges. Tapped threads and saved the bb shells.
+23-014,2023-01-19 00:00:00,Sales,Multiple,,Instructions for customization in manufacturing notes on custom order didn't match footnotes or CAT3 quote. Customizations in production followed manufacturing notes. 
+23-015,2023-01-24 00:00:00,Production,,Bike Seating,Lateral Track binding. Needs oiling then cleaning. Makes me angry.
+23-016,2023-01-24 00:00:00,fabrication,ASR,Bike Frame,headtubed on angle front of bike crooked
+23-017,2023-01-24 00:00:00,Production,ET,Multiple,"Demo requiring custom components didn't make it through engineering, custom components not designed/fabricated by point of assembly. Unique case because custom order didn't use CAT 3 process (no quote was needed)"
+23-018,2023-01-25 00:00:00,Production,ET,Bike Steering,Flash marks and frays on welded cables for ET.
+23-019,2023-01-04 00:00:00,Customer Service,Chill-Out Chair,COC Cover,"Parts order for a replacement COC cover and pelvic belt. Even though both parts were on one parts order, the COC cover was shipped out with no slits cut into the fabric for the pelvic belt straps. "
+23-020,2023-01-09 00:00:00,Customer Service,DCP,Bike Accessories,"Rear steer kit was shipped out for DCP16 preassembeled w/ grip and brake lever installed. The customer never intended to have a brake on the rear steer handle, and the brake lever is not included in the kit however was installed and shipped with one. Customer ended up purchaing a brake splitter kit to make work. "
+23-021,2023-01-10 00:00:00,Customer Service,AS2000,Bike Accessories,"Customer needed assistance installing stationary trainer on AS2000, I was able to assist via facetime. When installing the bracket to the drive wheel, there was no way to install with the anti tipping kit installed. I spoke with Iain and determined that they will need to remove the anti tip from one side of the bike, and advise the other side should be adequate. Customer was unsure about the fix but went ahead. "
+23-022,2023-01-13 00:00:00,Customer Service,DCP,Bike Accessories,"LH lateral would not lock into place. Customer sent video showing the RH latching with out issue, RH failing. Sent replacement parts order on O23-17994"
+23-023,2023-01-12 00:00:00,Customer Service,DCP,Bike Accessories,"Incorrect length wedge bolt shipped on O22-17877, customers email says was for a AS2000, parts order says it was for a DCP16. The incorrect part was ordered, replacement parts order O23-17991"
+23-024,2023-01-13 00:00:00,Customer Service,DCP,Bike Drive Train,"Customer sent video showing rear wheel wobbling, likely a bent axle. Unknown cause but under warranty. Sent replacement on O23-17995 dcp12"
+23-025,2023-01-24 00:00:00,Customer Service,DCP,Bike Brakes,"On a parts order for a brake splitter kit, Declan advised that we have to steal a bolt from a caliper kit as we do not stock the bolts where we drill the hole for the cables. We should have a small stock of these bolts so we dont end up with multipul incomplete caliper kits. "
+23-026,2023-01-26 00:00:00,assembly,EHDO,Bike Frame,Missing spring tab on frame
+23-027,2023-01-30 00:00:00,Customer Service,,,"DCP16 at Greenway School in Winnipeg reported a broken seat frame, video attached. Replacement frame on O23-18097. SN unknown at this time. "
+23-028,2023-01-30 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,Lost belvic belt for demo SN RL219L072. Submitted an order for a replacement on O23-18070 as per Evan.
+23-029,2023-01-30 00:00:00,Customer Service,ASR,Bike Steering,"NSM took a new ASR2011 to a home to be delivered. Called because the front wheel was moving independly from the steering handle bars. Facetime diag, had him pull back the rubber boot and could see the u-joint turning with the bars, but not the front work. Determined that the lower head tube wedge bolt going into the front work was not tight.  I created a set of instructions for the tech to repair, NSM picked up the bike and will complete repaires at their shop.   *** Bike went through our QA, transportation, unloading, being loaded into NSM delivery van, & off loaded and into the customers home with no issues, steering only let up after all of these delivery steps."
+23-030,2023-01-31 00:00:00,Engineering,Multiple,Bike Drive Train,"Item 5012048, crank shortener bolts, are extremely difficult to install in crank threads.  There are 56 sets of bolts in stock.  Comparison to standard pedal thread OD indicates that the OD on the drawing should be reduced for a better fit.  An ECR will take care of the required drawing changes but a plan for the existing stock is required,  A 9/16-20 RH thread cutting die from Mcmaster Carr is $100,  the LH die would be very difficult to find and likely very expensive.  Cost per pair - $13  "
+23-031,2023-01-31 00:00:00,Production,ASR,,"Order featured two different kinds of wheels kits. Greg prepped pneumatic, not needing to look at tire type as a result. Clarification revealed it was supposed to be solid tire.No tire type was listed on order."
+23-032,2023-02-01 00:00:00,Customer Service,ASR,,Customer has cranked both LH & RH footplates on a newer ASR2011. Claims not being abused or having too much weight or pressure applied. Replacement order O23-18148 for plasticom. Orig order # O22-16345
+23-033,2023-02-01 00:00:00,Customer Service,,,"O22-16473 - parts order for a replacement axle. incorrect part number was ordered, should have been a standard vs wide glide. Replacement order O23-18152"
+23-034,2023-02-02 00:00:00,Engineering,EHDO,Bike Accessories,EHDO with Eassist - Fork Wldt was not spec'd with Tab for torque arm so make-shift solution was required in Assembly.  This was a CAT3 order that appears not to have gone through engineering.  This needs to go through engineering until it can be standardized.   I will submit an FCR to standardize this option. 
+23-035,2023-02-02 00:00:00,Customer Service,,,"P# 2012289 on/off reciprocator - two of the set screw holes on the pin flange p# 2412292 needed to be tapped to allow the setscrews to be installed, likely due to the weld bead too close to the threads.  I caught the issue before delivering to vendor and sucessfully tapped the holes."
+23-036,2023-02-02 00:00:00,Customer Service,AS2000,Bike Seating,P# 2414330 - seat frame top weld failure. Seatframe replaced on O23-18105-W4N9.
+23-037,2023-02-02 00:00:00,Customer Service,DCP16,Bike Seating,P# 2414330 - Seat frame top weld failure 
+23-038,2023-02-02 00:00:00,Production,,Bike Seating,Lateral track extremely sticky - not gliding smoothly up and down even after I oiled it. every track is the same 
+23-039,2023-02-02 00:00:00,assembly,,kitting,3 bolt stems not assembled properly on all bikes repeating issue
+23-040,2023-02-06 00:00:00,Production,,, 2boxes of black parts left behind on paint run.
+23-041,2023-02-07 00:00:00,shipping,,,3 bolt stem still occasionally coming back loose. Needing to tighten during inspection
+23-042,2023-02-07 00:00:00,Production,Multiple,,"Kitting informed me of some painted UBars with paint chipping/lifting (new Red), potentially a paint vendor issue"
+23-043,2023-02-07 00:00:00,Production,,,Scratches on new COC trays from plasticom 
+23-044,2023-02-09 00:00:00,Production,Multiple,Bike Steering,"Weld on 3-bolt stem top plate large enough to prevent tool from seating on the 5/16x1"" bolt. Had difficulty tightening it properly."
+23-045,nan,Production,Multiple,Bike Steering,"Weld slag inside ubar prevented 1-bolt stem from inserting fully. Needed to be reamed - delivered to fab for reaming. This is the third ubar to do this in 2 months, but I didn't write the other ones down."
+23-046,nan,Production,DCP,,"Order does not list Rear Steer brake. Includes parking brake, LHS handlebar brake, and trainer."
+23-047,2023-02-09 00:00:00,ASSEWMBLY,,,"PARTS NOT PUT ON KITTED BIKES/LAST 6 KITTED BIKES MISSING PARTS,PARTS HERE NOT KITTED"
+23-048,2023-02-13 00:00:00,Production,DCP,Bike Drive Train,"Orders ask for ""large width, medium length"" footplates in notes. Part number for footplates is Large molded 2012044. These should be mediums, as there is no difference between large and medium widths, so if medium length is required, medium should be put on ticket."
+23-049,2023-02-15 00:00:00,Shipping,ET,Bike Steering,Rear rider handlebar brakes hit against headrest when seat is fully extended and when seat is moved back towards rear rider. Tilted brakes downward to allow for more turning radius.
+23-050,2023-02-16 00:00:00,assembly,ASR,,"multiple asr build sheets coming without inseam,last 6 asr"
+23-051,2023-02-16 00:00:00,Shipping,,,Chalk marks not being cleaned off of chair covers
+23-052,2023-02-16 00:00:00,fab,,,DCP Axles from MSP have deep gouges on the bent areas
+23-053,2023-02-17 00:00:00,Production,DCP,,"if nameplate require do not use the word ""plaque"" these are two different things"
+23-054,2023-02-17 00:00:00,Production,DCP,,"if order has custom decal pack do not duplicate decals with our in house decals, remove in house decals from order"
+23-055,2023-02-17 00:00:00,Sales,DCP,,if the notes for an order say not to put decals on the bike remove the decals from the order as well as notating the desire for no decals
+23-056,2023-02-21 00:00:00,assembly,as2600,,"all 2600 orderrs coming with park brake,theses cannot use parking brake wheels to big"
+23-057,2023-02-21 00:00:00,Production,ET,Bike Steering,Tandem with headrest causes issue with rear driver steering. had to turn brake levers downward. Second tandem.
+23-058,2023-02-21 00:00:00,Production,,Bike Accessories,"lateral track had weld splatter obstructing track movement, scraped the one side."
+23-059,Feb 21 2023,,Multiple,Bike Frame,"Found 2 HRP 12"" ubar with paint and or handling damage"
+23-060,2023-02-23 00:00:00,assembly,DCP,tie rods,Tie rod for DCP 3411273 is too long and is throwing the rear steer alingment off specially for the rigid forks
+23-061,2023-02-27 00:00:00,Production,Multiple,Bike Steering,handlebar bolt was stripped on one bolt stem.
+23-062,2/282023,Production,DCP,Bike Steering,rear steer handle .. not 90 degrees to the pivot arm
+23-063,2023-03-02 00:00:00,Production,,,Glue on foam plugs not holding. Vita foam contacted and Crystal notified
+23-064,2023-03-02 00:00:00,Production,Mini,Bike Steering,Tilt fork ratchet zip tied to ubar
+23-065,2023-03-03 00:00:00,Shipping,,,Chalk marks consistently not being cleaned off chair fabric
+23-066,2023-03-03 00:00:00,Customer Service,DCP,Bike Drive Train,"Quote request was for Med adjustable footplates, we entered order with small adj"
+23-067,2023-03-03 00:00:00,Customer Service,,,"Nov 2022 we submitted an order for fabric cards for a vendor, customer paid to expidite freight. The order shipped Jan 20th 2023 with fabric cards for the old fabric, not the new. Replacement order O23-18245."
+23-068,2023-03-03 00:00:00,Customer Service,DCP,Bike Frame,"Dunkin doughnuts bike built using standard orange frame, during order entry we did not enter as a customer color. I made a change to the order requesting the customer color, at this time the bike was already comeplete and needed to be re done"
+23-069,2023-03-03 00:00:00,Engineering,DCP,Bike Seating,"DCP16 broken seat frame, parts order O23-18305"
+23-070,2023-03-03 00:00:00,Customer Service,DCP,Bike Steering,"Mike rec'd order for Q18128 & flipped. Rene not realizing also entered the same order, and that order shipped with out being paid for. I have not asked for the extra part to be returned, not worth the freight. Old style tie rod, not a parts NCR issue."
+23-071,2023-03-03 00:00:00,Production,ASR,Bike Steering,"Jaydene was delivering a new ASR2011, the front wheel was disconnected from the handlebars. Diag'd cause being a loose wedge bolt to the fork. Jaydene was able to get help fixing before delivering. "
+23-072,2023-03-03 00:00:00,Customer Service,AS,Bike Seating,"Highback damaged during shipping, not documented as damaged. no freight claim. Repl parts order O23-18299"
+23-073,2023-03-03 00:00:00,Customer Service,AS,Bike Accessories,"Customer recieved bike with damaged rear reflector, repl order O23-18319"
+23-074,2023-03-03 00:00:00,Customer Service,DCP,Bike Seating,"DCP16 tbar was damaged during transit, seat will not move, no freight claim. Replacement parts order O23-18330"
+23-075,2023-03-03 00:00:00,Customer Service,ASR,Bike Accessories,Snapped ratchet strap 
+23-076,2023-03-03 00:00:00,Customer Service,AS,Bike Steering,Tie rod kit shipped with out nylock nuts or jam nuts. Tech did not realise until he was at the school and almost finished with the installation. He will now need to go back to complete the install once parts recieved. Repl parts order O23-18363
+23-077,2023-03-03 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,"COC was shipped with straps and strap pads, no buckles or 3pt pelvic pad was recieved with order. The SN photo can not confirm if the part was there or not. Repl order O23-18367"
+23-078,2023-03-03 00:00:00,Customer Service,DCP,Bike Drive Train,"Bike built with mountian pedals, customer requested adjustables. Apparently was a verbal conversation which was undocumented. repl order O23-18385"
+23-079,2023-03-03 00:00:00,Customer Service,EHDO,Bike Seating,"Bike was quoted and built with knobby and a standard seat base, Hal contacted me and says that it was supposed to be smooth pneumatic & a bench seat. Repl Parts order 023-18398"
+23-080,2023-03-03 00:00:00,Customer Service,EHDO,Bike Drive Train,"In addition to the issue above, this defier was supposed to have a custom positioned twist shifter as per a conversation between Colin & Hal. The bike was shipped with out the custom positioning, still needs to be resolved. "
+23-081,2023-03-03 00:00:00,Customer Service,DCP,Bike Drive Train,"Quote request was for an enclosed chain guard, we quoted and built an HD. Repl parts order O23-18400"
+23-082,2023-03-03 00:00:00,Customer Service,DCP,,"Parts order was recieved damaged. Customer says one wheel was shipped with an axle going through it, and things thats what caused the damage. repl order O23-18412"
+23-083,2023-03-03 00:00:00,Customer Service,,,"Parts order included qty 3 lg footplates, only 1 was shipped. Replacment order O23-18417"
+23-084,2023-03-03 00:00:00,Customer Service,AS,Bike Accessories,Footplates hitting front wheel when turning - replacement order O23-18425
+23-085,2023-03-06 00:00:00,Production,Chill-Out Chair,COC Foam,"Large triangle positioining cushions that Vita sent are 6""x6"" instead of 5""x5"" triangle"
+3410319,2023-03-06 00:00:00,Production,,,All AS Narrow axles from MSP have not had the laser areas cleaned 
+23-086,nan,,,,with scrap still attached
+23-087,2023-03-06 00:00:00,Production,Multiple,Bike Drive Train,"Footplate Spacer parts orders dont specify what footplate style they are for, (the last 4 ive done). we need to know because it determines what hardware we send."
+23-088,2023-09-03 00:00:00,Production,ASR,Bike Drive Train,ASR orders are pulling kit 2012027 for bottom brackets. But ASRs have the bottom bracket cartridge in the BOM. This kit should not appear on orders at all. 
+23-089,2023-03-09 00:00:00,Customer Service,,,Customer had chain fall off prev repaired ET2611. Tech went out and installed new chain and aligned. 
+23-099,2023-03-10 00:00:00,Production,Multiple,Bike Seating,Quick Releases are still not being tightened on select bikes. can move seat freely while quick releases are locked.
+23-100,2023-03-10 00:00:00,Production,Multiple,Bike Drive Train,On/Off Threaded Flange has faded paint on 11 of them. Repainting in house.
+23-101,2023-03-10 00:00:00,Customer Service,,,"Sold demo arrived with 1/4"" ratchet missing - sent replacement on O23-18515"
+23-102,2023-03-10 00:00:00,Customer Service,,,Sold demo arrived with bent wheel - sent replacement on O23-18514
+23-103,2023-03-10 00:00:00,Customer Service,,,Sold demo arrived with bent wheel and snapped fork tab - replacement parts order O23-18372
+23-104,2023-03-13 00:00:00,Customer Service,,,Customer reports one footplate snapped in half. Repl parts order O23-18513
+23-105,2023-03-13 00:00:00,Customer Service,,,"Vendor called, short shipped fork. Sent repl on O23-18530"
+23-106,2023-03-13 00:00:00,Customer Service,,,O23-18516 - Order entered as a roller when it should have been a rocker. Unable to change order since submitted and can not change pricing to match. 
+23-107,2023-03-14 00:00:00,Assembly,,, Dcp tie rod thread length incorrect. Too long to allow for proper rear steer alignment of handle.
+23-108,2023-03-16 00:00:00,Customer Service,Chill-Out Chair,COC Cover,"O23-17936 - Incorrect COC cover was quoted, ordered and shipped. The customer had emailed back after recieving the order confirmation after noticing the incorrect fabric was on the order and asked us to change the fabric, note was saved in notes and activities, however the change was never made and the COC was shipped with the incorrect fabric. The email thread will be saved as an image in the T: file. Replacement order O23-18577"
+23-109,2023-03-17 00:00:00,Customer Service,AS,Bike Steering,Older model AS2000 reported a bent fork tab by Motion Mississauga - quoted replacement. 
+23-110,2023-03-17 00:00:00,Customer Service,AS,Bike Steering,"Newer looking AS2000 fork tab snapped off, reported by Motion Mississauga -  no SN proviced. - Quoted repl"
+23-111,2023-03-17 00:00:00,Customer Service,ET,Bike Accessories,"ET2611 was having intermittent electric assict issues, bikes power was cutting out at random times. Customer took the bike to a bike shop and after a long diagnostics was determined to have a short in the wiring harness. Replacement wiring harness on O23-18641"
+23-112,2023-03-20 00:00:00,Customer Service,,,O22-17890 was shipped with UPS and according to tracking was delivered in January. Recieved an email from the branch manager asking where his parts order was. Person who signed for UPS package does not work at the branch. Replacement order O23-18606
+23-113,2023-03-20 00:00:00,Customer Service,,,O22-18436 - UPS parts package recieved - box damaged and empty. 
+23-114,2023-03-20 00:00:00,Customer Service,ASR,Bike Frame,"ASR16 SN2220942 - John @ Motion Hamilton contacted be as the head set was loosening off on an ASR16, also had a washer/ spacer which had sheered in two. I facetimed with John and determined the bikes whole frame was twisted, causing the top and bottom head tubes to be out of alignment and stressed. Repl frame on O23-18608."
+23-115,2023-03-21 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,Med roller was delvered and a few days later NSM notified that the trey had been damaged. Appears like a failure of the quick release and caused the tray to fall and get damaged. repl parts order O23-18624
+23-116,2023-03-21 00:00:00,Customer Service,ASR,Bike Accessories,Customer reports a broken footplate. This footplate was set at a custom 30 degree angle and not using the typical mounting locations. Replacement order O23-18646
+23-117,2023-03-22 00:00:00,Customer Service,AS,Bike Frame,Snapped spud on AS2000 - I am going to find a local repair shop.
+23-118,2023-03-22 00:00:00,Customer Service,DCP,Bike Steering,Tie rod threadded rod pulled out of the front of a DCP tie rod. 2111250
+23-119,2023-03-22 00:00:00,Customer Service,AS,Bike Steering,Snapped fork tab on demo during transit. Repl order O23-18657
+23-120,2023-03-23 00:00:00,Customer Service,AS,Bike Accessories,"Customer ordered a rear platform however no hardware to install on the top bearing flange plates. I never looked at the kit in the component lookup before placing the order. The kit is the platform and a decal, no installation hardware is included in the kit. Can we update the platform kits to include the need install hardware? Replacement order O23-18242"
+23-121,2023-03-23 00:00:00,Production,ASR,Bike Brakes,ASR Order states drag brake but no t-bar kit entry.
+23-122,2023-03-27 00:00:00,Production,AS,Bike Drive Train,AS2600 order pulled both standard and enclosed chainguard types. Chantal confirmed customer ordered enclosed.
+23-123,Mar 27 2023,Engineering,,,Prototype product rec'd and delivered to fab engineering not notified 
+23-124,2023-03-27 00:00:00,Production,ASR,Bike Drive Train,"Configurator pulls BB 2012027 Kit for ASR's bottom bracket. Should not be a kit, should only be 5012054 in the BOM"
+23-125,2023-03-28 00:00:00,Production,EHDO,Bike Drive Train,Configurator pulls BB 2012027 Kit for EHDO bottom bracket. Should not pull kit. should only be 5012054 in the BOM along with the EHDO BB Stem 2460436
+23-126,2023-03-28 00:00:00,Engineering,Chill-Out Chair,COC Cover,"Yesterday, Top Stitch small ottoman cover did not fit a small ottoman plug (too loose), and it did not fit the large plug either (odd fit). I contacted Justin and his team will remedy this issue."
+23-127,2023-03-28 00:00:00,Customer Service,ASR,Bike Drive Train,"2023 ASR2011's rear sprocket is spinning on the axle. I have sent repair instructions, this issue is likely resolved for this unit. "
+23-128,2023-03-28 00:00:00,Production,DCP,Bike Steering,3611000 had to rethread a couple to make the nut work. randomly check parts bin in fab 3 out of 10 samples had the same problem. major diameter is correct. havnt check minor diameter 
+23-129,2023-03-29 00:00:00,Customer Service,,,AS2000 sent with out rear steer - no on quote or order - still investigating cause
+23-130,2023-03-31 00:00:00,Production,,,Email convo in manufacturing notes with no answer to the questions noted.  
+23-131,2023-04-03 00:00:00,Production,DCP,Bike Steering,"Demo request stated rear steer was left off order and made to production, noticed at kitting "
+23-132,2023-04-04 00:00:00,Production,ASR,Bike Drive Train,"ASR 16 order pulls 2012027 for bottom brakcet. No BB kit should appear on order, and 5012504 should be in the BOM"
+23-133,2023-04-05 00:00:00,Customer Service,ASR,Bike Steering,ASR2011 - Rear steer tube sheered at weld. This was a replacement part as the original had also sheered in the same place. Cat 3 submitted for reinforced replacement. 
+23-134,2023-04-05 00:00:00,Customer Service,,,Customer was short shipped two thumb wheels and two washers on  O23-18734-B9V0. Replacement order O23-18815
+23-135,2023-04-05 00:00:00,Customer Service,,Bike Accessories,"Parts order O23-18512-J5K1 for qty 6 name plates and decals, was shipped without hardware. Was advised there is no part number for the needed hardware, no manufacturing notes were added requesting hardware shipped with nameplate.  "
+23-136,2023-04-05 00:00:00,Customer Service,,,"Incorrect washer part# 4060562 listed in kits for backrest extenson kit #'s 2114122, 2114132 & 2114134. Angelene is investigating. "
+23-137,2023-04-05 00:00:00,Customer Service,AS,Bike Drive Train,"Demo AS2000 hub - snap ring which holds outter cog came off. I was able to reinstall the snap ring very easily however due to the round shape of the ring and groove, any sideways pressure may cause it to dislodge, such as chain alignment."
+23-138,2023-04-05 00:00:00,Customer Service,,,Parts order O23-18735 short shipped all four thumb wheels and washers. 
+23-139,2023-04-10 00:00:00,Production,DCP,Bike Drive Train,"DCP order lists medium ratcheting footplates but the notes said ""medium with small length"". Order desk needs to understand that the width of molded footplates is all the same, ergo, if the length is ""small"" then the configurator should pull small footplates, not mediums. There is no possible adjustments or changes to the width of molded footplates."
+23-140,2023-04-10 00:00:00,Production,ASR,Bike Brakes,"ASR16 order pulls 2013065 parking brake but should be 2013056 for 16"" wheel."
+23-141,2023-04-12 00:00:00,Customer Service,ASR,Bike Drive Train,"ASR2011 was delivered to Vibank School Aug 2022 and after a short period the bottom bracket loosened causing the footplate to contact the chainguard. The customer sent images showing the damage, and the bottom bracket keeper nut had spun loose. The bike was located in the middle of no where sask, no bike shops in the area. O22-17283 we sent a replacement chainguard and tool to reinstall the bottom bracket. "
+23-142,2023-04-12 00:00:00,Customer Service,DCP,Bike Accessories,DCP16 shipped with out the needed front pulley strings as standard on a DCP LE
+23-143,2023-04-12 00:00:00,Customer Service,Chill-Out Chair,COC Cover,Chill-Out Rock'er has a faulty zipper at chair base. Replacement cover on O23-18862 w/ ups return lable
+23-144,2023-04-12 00:00:00,Production,AS,Bike Brakes,Pick ticket has both brakes on the hoop bars when there is a Rear Steer one should go to the RS
+23-145,2023-04-13 00:00:00,Production,AS,,Old fab Sheet used to process new product 
+23-146,2023-04-14 00:00:00,Production,DCP,Bike Steering,"DCPMini states Hoop Bars on order, but we always change them to Enclosed regardless. can we get this changed in the configurator?"
+23-147,2023-04-19 00:00:00,Customer Service,,,"Defier requested with adult HB, was quoted and built w/ hb w/ cutout wings. Replacement order O23-18937"
+23-148,2023-04-19 00:00:00,Customer Service,ASR,Bike Seating,ASR2011 recieved with damaged seat base and back rest - no damage reported on delivery from O23-17844. Replacment order O23-18938
+23-149,2023-04-19 00:00:00,Production,AS,Bike Seating,"i2i brackets listed; seatframe with 1"" spacing not listed"
+23-150,2023-04-20 00:00:00,Production,,,There has been 2 seperate occasions when frames went out to paint when they should not have been resulting in incorrect colours applied. AS-2600XTN and ASR HD both need to be rebuilt
+23-151,2023-04-21 00:00:00,Production,Chill-Out Chair,,"notes on pick ticket extremely wordy. all it needs to say is increase back height of chair 5"", tray mount on left hand side"
+23-152,2023-04-24 00:00:00,Production,ASR,Bike Drive Train,ASR order shows 2012027 for bottom bracket
+23-153,2023-04-24 00:00:00,Production,Multiple,Bike Drive Train,"Notes describe custom footplates as ""medium width, small length"" and the configurator lists medium footplates. As medium and small footplates are the same width, this should just be put in as small footplates, and no note is necessary."
+23-154,2023-04-24 00:00:00,Production,ASR,Bike Drive Train,ASR order shoes 2012027 for bottom bracket
+23-155,2023-04-24 00:00:00,Production,ASR,Bike Steering,ASR order with pneumatic tires also has 6412030 Warning card for solid tires
+23-156,2023-04-25 00:00:00,Customer Service,AS,Bike Drive Train,"Customer reported a damaged bottom bracket, was a dealer and not sure how it happened. Quoted new parts. "
+23-157,2023-04-19 00:00:00,Customer Service,ET,Bike Accessories,ET2611 front electric assit motor sparking and smoking during ride. Quoted control module
+23-158,2023-04-26 00:00:00,Production,EHDU,Bike Drive Train,EHDU lists 2012027 kit for bottom bracket but it shouldn't
+23-159,2023-04-27 00:00:00,Customer Service,DCP,Bike Seating,"New DCP16 - Rider has poor leg alignment due to poor seating positioning. First step to correct is to try a narrow seat & abductor strap.    I have seen this a few times, if needed I can find images and documentation, but should a narrow seat be standard for some kiddos? Perhaps if we got a waist measurement we can prevent this. I have also seen it with the crank arm shordeners as well.  Parts order O23-19020 ."
+23-160,2023-04-28 00:00:00,Customer Service,ET,Bike Drive Train,"ET2611 chain reported to have fallen off again, this also happened last year with this unit. We sent out a chain tensioner and seemed to be okay. Futher info to follow, a bike shop will arrange repair"
+23-161,2023-05-01 00:00:00,Production,,,"confusion with an order, notes on pick ticket state front office to make instructions for rear steer tube.  questioned today why it hasn't gone yet and told front that shipping was waiting for the instructions and i was told this was a personal note put in as a reminder to email instructions to client.  personal reminder notes should not show up on pick ticket, causes confusion"
+23-162,2023-05-01 00:00:00,Production,,,"ET 2611 Tandem Tammi Milus O23-17957-X9J4 SN# 2230122 - Hi Tom, yes, it looks like that bike does have the strap guides, however, it also looks like that backrest is about 8” too short for the chest harness to be effective – with or without the guides. 
+
+Great idea to record it in the incident log – please include the serial number and the customer’s photos. 
+
+Iain. 
+"
+23-163,2023-05-02 00:00:00,Customer Service,Chill-Out Chair,COC Cover,COC pommel fabric/ stitching failed. Warranty replacement on O23-19062
+23-164,2023-05-03 00:00:00,Customer Service,AS,,"AS2000 recieved by Motion Kitchener with no serial number on the frame. The bike QA did have the sn checked off, it is very possible Motion is incorrect."
+23-165,2023-05-04 00:00:00,Customer Service,AS,Bike Drive Train,AS2000 extended - BB housing material failure.
+23-166,2023-05-04 00:00:00,Customer Service,,,"Footplates shipped out with LH & RH pedals installed on incorrect sides. RH pedal on LH footplate, same for both pairs. "
+23-167,2023-05-04 00:00:00,Customer Service,AS,Bike Seating,AS2000 seat frame failure
+23-168,2023-05-04 00:00:00,Customer Service,DCP,Bike Steering,DCP16 - bent fork on delivery. I have asked front wheel be inspected before parts order submitted. 
+23-169,2023-05-05 00:00:00,Production,ASR,Bike Brakes,"ASR16 lists 20"" parking brake 2013065, when it should be the 16"" version."
+23-170,2023-05-05 00:00:00,Production,ASR,Bike Drive Train,ASR16 lists 2012027 bottom bracket kit. it should not.
+23-171,2023-05-07 00:00:00,Production,,,"7/8"" 16g and 18g tube are mixed in the same rack resulting in 100' of unusable cut material"
+23-172,2023-05-08 00:00:00,Production,tandem,Bike Drive Train,Tandem lists 2012027 bottom bracket kit but it shouldn't.
+23-173,2023-05-08 00:00:00,Production,AS,Bike Drive Train,"Extra large footplates made for AS struck crank arm on crank rotation. Solution found was to disassemble, trim the inside edge of the footplate, thus moving the ratchetstraps and brackets out away from the crank arm. Angelene working on new footplate drill jig for extra large ecoform footplates."
+23-174,2023-05-03 00:00:00,Sales,EHDU,,"Manufacturing notes asked for special configuration of hand pedals (without end grips), even though this is an existing kit (2460192) available in the eval and configurator"
+23-175,2023-05-03 00:00:00,Sales,EHDU,,"Manufacturing notes copy and pasted, long and confusing (contains an unanswered question)"
+23-176,2023-05-09 00:00:00,Customer Service,EHDU,,"Incorrect seat spec'd, shipped. EHDU with foot pedals should not have a bench - replacment order "
+23-177,2023-05-10 00:00:00,Customer Service,Chill-Out Chair,,"Incorrect fabric invoiced on COC DEMO O23-18113 - CRM and GP say the chair is Spirit - Storm, chair was built in dove and hand written on invoice, SN photo also shows Dove."
+23-178,2023-05-11 00:00:00,Sales,,,on/off locked and would not pull out .. had to use tool .. this has happend on several bikes
+23-179,2023-05-11 00:00:00,Production,ET,Bike Drive Train,"ET has bottom bracket kit 2012027 but it shouldn't. cartridge is covered in the BOM, no kit necessary."
+23-180,2023-05-15 00:00:00,Production,,,incorret manufacturing notes - move pedals forward 1.5in
+23-181,2023-05-15 00:00:00,Customer Service,,,"Parts order recieved with only 1 ball joint in the socket, other was missing & no instructions sent with order. No charge repl order submitted."
+23-182,2023-05-15 00:00:00,Customer Service,DCP,,"Bike arrived with damaged spoke on RHR wheel, no marked as damaged. Repl order 19181"
+23-183,2023-05-15 00:00:00,Customer Service,AS,Bike Accessories,AS2000 arrived missing RH lateral - SN image shows it  - repl order 19183
+23-184,2023-05-15 00:00:00,Inside Sales,,,DCP 12 Demo Moded missing Ratcheting for Adjustable Fork SN 2210914 - Mike to send new one to Wayne Grapes
+23-185,2023-05-15 00:00:00,Production,DCP,Bike Steering,"DCPMini has hoop bars listed, but should have enclosed hoop bars. to my knowledge, minis always get enclosed hoop bars no matter what. it should be changed on the orders."
+23-186,2023-05-15 00:00:00,Production,ASR,Bike Drive Train,"Custom foot tracing indicates 8 inch length. configurator lists small footplate, but small footplate would be much too small for the custom tracing. the configurator should say medium footplate."
+23-187,2023-05-15 00:00:00,Sales,DCP,,on/off pin snapped in and would not release into freewheel mode wihout using a tool to pop it back out
+23-188,2023-05-16 00:00:00,Production,EHDO,Bike Seating,"EHDO order with meshback seat also requests flip down abductor, but they're incompatible."
+23-189,2023-05-16 00:00:00,Production,EHDO,,"EHDO lists meshback seat, 2114453, twice."
+23-190,2023-05-16 00:00:00,Production,EHDO,,EHDO lists 2012027 but no hand-and-foot option
+23-191,2023-05-17 00:00:00,Production,,,3610508 part that came in from NJI was rev 2 not rev 3. Proper DXF and PDF was released and PO reflects changes PO # 2230583
+23-192,2023-05-18 00:00:00,Customer Service,,,No SN photo for SN 2160804
+23-193,2023-05-18 00:00:00,Production,Multiple,Bike Drive Train,"ASR Electric Assist: this electric assist bike has both 2125361 and 2112306. Technically, this means the bike has 4 wheels. perhaps the electric assist bikes can have a different wheel kit that only has the rear wheels listed, rather than all three wheels."
+23-194,2023-05-24 00:00:00,Customer Service,AS,Bike Steering,Ball joint not on tie rod when bike delivered - repl order O23-19304
+23-195,2023-05-24 00:00:00,Customer Service,,,"Parts order short shipped two pair of grips. The pick ticket had no check marks but items were highlited, not sure if that was checking off as was boxed. The customer I spoke with is the one who opened box, no grips. Repl order O23-19305"
+23-196,2023-05-25 00:00:00,paint,,,"12"" U-bar has fish eyes in paint, poor finish due to bad prep."
+23-197,2023-05-26 00:00:00,Customer Service,DCP,Bike Accessories,"Pulley contacting frame and caused ware. The image shows a different caribeener, this was used in an attempt to help but the original was doing the same. "
+23-198,2023-05-26 00:00:00,Customer Service,,,"Parts order recieved with only one single grip, not a pair. Replacement on O23-19361"
+23-199,2023-05-26 00:00:00,Customer Service,ASR,Bike Brakes,"1 of 3 - bike arrived to Motion - Mississauga with the park brake not contacting the tire, needed to be adjusted. "
+23-200,2023-05-26 00:00:00,Customer Service,ASR,Bike Brakes,"2 of 3 - bike arrived to Motion - Mississauga with the park brake not contacting the tire, needed to be adjusted."
+23-201,2023-05-26 00:00:00,Customer Service,ASR,Bike Brakes,"3 of 3-  bike arrived to Motion - Mississauga with the park brake not contacting the tire, needed to be adjusted."
+23-202,2023-05-29 00:00:00,Customer Service,Chill-Out Chair,,"COC arrived damaged. Cover, tray and pushbar kit damaged. Repl order 19362 submitted. "
+23-203,2023-05-29 00:00:00,Customer Service,,,Parts for Motion Kitchener were billed correctly but sent with UPS to Motion Hamilton
+23-204,2023-05-29 00:00:00,Sales,AS,,"Manufacturing notes missing from pick ticket, lost in sync from CRM-GP due to apostrophe (') added in CRM after configuring"
+23-205,2023-06-01 00:00:00,Customer Service,ASR,Bike Drive Train,"Slipping sprocket on ASR2011 - yet to be resolved  - ""The school is frustrated about this and reconsidering purchasing two more of these as they had originally planned"""
+23-206,2023-06-01 00:00:00,Customer Service,ET,Bike Drive Train,"ET2611 - chain disconnected, mid hub snap ring popped off and now the chains are a mess. customer was able to reinstall everything but found the chain tensioner faulty - parts order 19487 submitted."
+23-207,2023-06-01 00:00:00,Customer Service,,,"Parts O23-19329 for motion kitchener was shipped to motion hamilton, order was billed correctly, internal shipping error"
+23-208,2023-06-01 00:00:00,Production,Multiple,Bike Steering,Recent batches of rear steer handles have not been ground down on end so as to to fit a machinery bushing over top. Suggest Fab gets a sample machinery bushing to test if it fits before stopping grinding.
+23-209,2023-06-01 00:00:00,Customer Service,Chill-Out Chair,COC Cover,"COC cover on O22-17543 had stitching coming undone, fabric failing. Replacement order O23-19403"
+23-210,2023-06-01 00:00:00,Customer Service,ASR,Bike Drive Train,Eccentric BB on an ASR has shifted causing a loose chain and the crank to contact the chain guard. 
+23-211,2023-06-05 00:00:00,Production,EHDO,Bike Drive Train,Chrome plating on 2460436 -EHDO BB STEM (TXT BLACK) is chipping and flaking off 
+23-212,2023-06-07 00:00:00,Customer Service,AS,,"Customer installed drag brake on front wheel of AS2000, no instructions were sent with kit. "
+23-213,2023-06-07 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,Customer upset that the XLwide COC tray does not tilt as advertised.
+23-214,2023-06-07 00:00:00,Customer Service,ASR,Bike Drive Train,"Narrow axle shipped, order was for a standard length. Replacement order O23-19442"
+23-215,2023-06-07 00:00:00,Production,DCP mini,COC Accessories,Kit 2012042 is for a small footplate assembly but is pick up medium in Kit
+23-216,2023-06-07 00:00:00,Customer Service,AS,Bike Drive Train,"Replacement footplates hitting front wheel of AS2000 - O23-18425 was replacement footplates but still hitting frame, not sure if test fit before shipping. Second replacement ord"
+23-217,2023-06-07 00:00:00,Sales,DCP,,photo shared on social media with chest harness slipping off shoulders - marketing could not contact family for SN
+23-218,2023-06-08 00:00:00,Sales,DCP,,"same thing , another shared photo from a family , both harness straps fallling off shoulder of rider"
+23-219,2023-06-08 00:00:00,,,,"last four carts not fully kitted,or kitted wrong. muliple components missing on carts when marked as done,tbar missing name plates wheels seats assembled without embrodiery,handle bars missing horns,calpers missing."
+23-220,JUNE9/23,Sales,,,"DECALS NOT ADDED TO ORDER,HAD TO PUT ON AFTER BUILT"
+23-221,JUNE9-23,,,,HUB NOT ON CART 
+23-222,2023-06-09 00:00:00,,EHDO,Bike Drive Train,"EDHO has 2012027 bottom bracket kit, but it shouldn't. No hand-and-foot option."
+23-223,2023-06-08 00:00:00,Customer Service,ET,Bike Drive Train,"ET2611 - Bike was delivered in the fall, customer never rode it until this spring. First ride out after 10 minutes and the chain came off. I went out and found the snap ring off the mid hub and loose cog, chain tensioner was not in the best position. After replacing the snap ring, i put outter pressure on the dog to see if it would pop off again, it was secure. After repair I went out for a solo ride with no issues. When I went on a ride with someone on the front, there was one instance where it felt like the chain binded, only happened once, was in 4th or 5th gear direct drive. Customer was also concerned as the rear steering handlebar was very loose and not controlling the front wheel (loose pinch bolt at top of stem)"
+23-224,2023-06-09 00:00:00,Customer Service,AS,Bike Steering,Snapped fork tab
+23-225,2023-06-08 00:00:00,Customer Service,AS,Bike Steering,Snapped fork tab
+23-226,2023-06-09 00:00:00,Customer Service,ASR,Bike Accessories,"ASR2011 on/off seperating on axle, hub spinning off free wheel   (bike currently at FCI unresolved)"
+23-227,2023-06-09 00:00:00,Customer Service,ASR,Bike Drive Train,"ASR16 loose chain, suspected shifted eccrentric BB, trying to find a repair shop. "
+23-228,2023-06-09 00:00:00,Customer Service,AS,Bike Frame,GTE contracting - Snapped spud on AS2000 (non tilt frame 2022)  unresolved- having repaired locally.
+23-229,2023-06-08 00:00:00,Customer Service,DCP,Bike Frame,Snapped spud on DCP16  unresolved
+23-230,2023-06-12 00:00:00,Production,ASR,,"Picking Ticket calls for ASR solid tire warning card when bike has Pnuematic Tires. happening on alot of orders,"
+23-231,2023-06-12 00:00:00,Production,ASR,Bike Drive Train,"ASR2011 has 2012027 bottom bracket kit, but it shouldn't"
+23-232,2023-06-12 00:00:00,Customer Service,ASR,Bike Steering,Had a bike at a bike shop for repair - reported the front wedge for the handlebars was loose & bars moving independently 
+23-233,2023-06-14 00:00:00,Sales,ASR,,ASR2011 allen key bolts were way too tight to loosen up. 
+23-234,2023-06-14 00:00:00,Customer Service,,,"O23-18577 was a replacement COC cover for a previous internal fabric error, customer recieved no ottoman cover with the replacement cover. Chair was delivered to vender beginning of march and still has yet to be delivered to custoemer. second replacement order O23-19497 submitted"
+23-235,2023-06-14 00:00:00,Production,,,"3-bolt stems sent for a third time to paint without being properly prepped, not masked.  charges are now being incurred"
+23-236,2023-06-14 00:00:00,Customer Service,,,Child laterals sent out with hex bolts to secure to adult seatback. Order was for child laterals which req wood screws which were not sent with order. O23-19506 submitted for 8 screws.    ( should laterals ship automatically with hardware? )
+23-237,2023-06-15 00:00:00,Customer Service,AS,Bike Seating,Broken weld on a AS2000 seat frame. Quoted replacement. 
+23-238,2023-06-15 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,"Incorrect size headrest ordered - picked L headrest for M chair in error due to old chair sizing, new config was not used. "
+23-239,2023-06-15 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,"Jaydene sold this demo and asked that I send out a no charge ottoman support kit, chair had a normal ottoman. Speaking with the customer, the only reason she purchased the chair was she was told she could support the ottoman while it is being wheeled around. No charge ottoman order submitted."
+23-240,2023-06-15 00:00:00,Customer Service,,,Hal from Creative Mobility has been relocating the electric assist batteries behind the seat on handcycles. Handcycle riders are having a difficuly time reaching down to the location of the battery to turn the key on/off due to their disability.
+23-241,2023-06-15 00:00:00,Customer Service,ASR,,"Customer emailed wondering why their trainer was slipping off the bolts, as a student was trying to get on the bike it shifted to the side. No instructions sent with bike, user did not know how to setup trainer and had it resting on the bearing flange bolts. (is it possible to get a label made which can stick to the trainer with instruction?)"
+23-242,2023-06-16 00:00:00,Customer Service,,,Parts order for Motion Kitchener was delivered by UPS to Motion Hamilton. Undeterminded if UPS or FCI error. 
+23-243,2023-06-16 00:00:00,Customer Service,,,SN photo not in t drive 
+23-244,2023-06-16 00:00:00,Customer Service,DCP,Bike Accessories,DCPmini arrived missing one thumbwheel on bottom side of leg brace. Sent replacement parts order
+23-245,2023-06-19 00:00:00,Customer Service,,,SN photo not in t drive
+23-246,2023-06-19 00:00:00,Engineering,Chill-Out Chair,COC Accessories,"Bert brought a Roller base that was separating, he expereinced 2 Roller bases de-laminating while Rusty has experienced 4. Rusty has re-purposed a few into trolleys to use within the shop. From Rusty's feedback, these bases were from the same batch, and they came off the pallet with the issue. I will initiate contact with our vendor (Carson-Tricom) "
+23-247,2023-06-19 00:00:00,Customer Service,ASR,Bike Drive Train,"Customer tipped bike while riding at a high rate of speed while turning. Parts order for a steering limiter added, also found that the customers on/off was not functioning, the rider could not control the bike speed as well due to being stuck in freewheel mode (as per Larry who spoke with them)"
+23-248,2023-06-20 00:00:00,Production,Multiple,Bike Steering,Tandem cable has significant frays and weld marks
+23-249,2023-06-20 00:00:00,Customer Service,ASR,Bike Drive Train,"Report of an on/off slipping at a local school. I inspected and found it to be slipping, but also had spun half way off the hub, also very little to none threadlock on set screws. I was able to remove and re assemble, there was a slight gap afterwards."
+23-250,2023-06-21 00:00:00,Assembly,,,New enclosed chain guard has fitment issue with rear frame tab alignment slot on inner half too wide.
+23-251,2023-06-21 00:00:00,Customer Service,DCP,Bike Steering,Snapped fork tab
+23-252,2023-06-21 00:00:00,Production,DCP,,"HAL Creative mobility DCP12 order missed rear steer on the purchase order (picking ticket?). Confirmed with Chantal that it does in fact need one, and the brake should be on the rear steer not on the handlebar. "
+23-253,2023-06-21 00:00:00,Customer Service,DCP,,DCP12 for a 4 year old rider - quoted large pelvic belt instead of small & forgot the chest harness. Repl parts order O23-19565
+23-254,2023-06-21 00:00:00,Customer Service,,,"UPS not able to deliver parts package, apt number missing on UPS slip however it was on the pick ticket. "
+23-255,2023-06-22 00:00:00,Customer Service,,,Vibank footplate broken - this is the 4th occurance with the HD bike and XL footplates. 
+23-256,2023-06-22 00:00:00,Sales,ET,,"Custom order 18634 specified 28in inseam, rider is much shorter (esimated 18"" from photo). Bike doesn't fit. "
+23-257,2023-06-22 00:00:00,Customer Service,ET,,Manufacturing notes don't match those on the pick ticket (Sydney was supposed to take pictures?)
+23-258,2023-06-22 00:00:00,Sales,ET,,"water bottle on invoice/in CRM but not on picking ticket, not in customer photo"
+23-259,2023-06-22 00:00:00,Production,ET,,Serial number photo for bike invoiced June 1 not available on June 22 (3 weeks later). Not sure if lost or late. 
+23-260,2023-06-23 00:00:00,Customer Service,ET,,ET2611 - Customer reports chain always falling off and tensioner now in incorrect position. I have sent the customer an image of the correct way for the tensioner to be oriented and she repositioned however would not stay in place and tension the chain. 
+23-261,2023-06-23 00:00:00,Customer Service,ASR,Bike Steering,Jaydene reports that the bottom headset wedge nut has loosened on an ASR16 and the handle bars will not properly turn the front wheel. Repair instructions sent.
+23-262,2023-06-26 00:00:00,Customer Service,DCP,,Leg brace contacting seat base and has caused damage to seat. Recommended repositioning leg brace lower or raise seat.
+23-263,2023-06-27 00:00:00,Sales,DCP,,DCP12 has chest harness that is not staying on the shoulders ! this is with our new guides installed as well
+23-264,2023-06-30 00:00:00,Customer Service,DCP,,CAT3 DCP12 w/ 12in ubar - the ubar is coming to close to the rider and unable to ride. Evan requested other size ubars are sent out - order submitted
+23-265,nan,,asr16,Bike Frame,bar in centre of frame forgotten
+23-266,2023-06-30 00:00:00,ASSEMBLY,,,"bike #19190 splitter and midhub mounts missing, bike was sent out for paint as such. upon return splitter mount was installed and paint touched up. steering cable guides were no positioned properly making cable install difficult and time consuming."
+23-267,2023-06-30 00:00:00,Production,ASR,Bike Frame,Front chainguard bracket intereferes with main tubes. Requires trimming chainguard bracket & drilling new hole. Issue on most ASRs since eccentric bottom bracket. 
+23-268,2023-07-04 00:00:00,ASSEMBLY,,,"Crank shorteners supplied are chamfered on wrong side of item, pedals are very difficult to start threads, will require remachining."
+23-269,2023-07-04 00:00:00,Customer Service,DCP,Bike Seating,backrest damaged during freight - not claimed - repl order submitted
+23-270,2023-07-04 00:00:00,Production,AS,Bike Brakes,"AS order features both right and left brake levers for both rear steer position AND T-bar position. I thought Ian fixed the left/right brake lever issue, but it seems the old ones remained in the kits, and now both are listed."
+23-271 ,2023-07-05 00:00:00,Customer Service,,,ASR16 arrived damaged - unresolved
+23-272,2023-07-05 00:00:00,Customer Service,,,COC arrived damaged - being returned free astray - unresolved
+23-273,2023-07-07 00:00:00,Customer Service,DCP,Bike Frame,"DCP spud tube snapped - customer admits rider is very hard on bike and holds no fault to FCI. locally repaired, brother a welder."
+23-274,2023-07-11 00:00:00,Production,ASR,Bike Seating,"ASR T-bar kit has socket screw at 3 1/4, but should be 2 3/4. Hang over from asr seat frame update."
+23-275,2023-07-12 00:00:00,Production,Multiple,Bike Accessories,Some Trainer bases and roller bases have been made with a thicker guage square iron. Not a big deal but it's more difficult to pound in the plugs and some of them look pretty ugly.
+23-276,2023-07-13 00:00:00,Production,ASR,Bike Drive Train,"ASR has 2012027 bottom bracket kit, but it shouldn't"
+23-277,2023-07-13 00:00:00,Production,ASR,Bike Drive Train,"ASR has 2012027 bottom bracket kit, but it shouldn't"
+23-278,2023-07-13 00:00:00,Production,ET,Bike Steering,"ET folding stem 5/16"" SS bolt seized, customer couldn't tighten stem. Broke bolt. "
+23-279,2023-07-17 00:00:00,Customer Service,AS,,Incorrect tie rod picked and shipped on O23-19580 
+23-280,2023-07-17 00:00:00,Customer Service,,,Pivot part sent without hole being drilled for cable - replacement order O23-19770
+23-281,2023-07-17 00:00:00,Customer Service,DCP,Bike Frame,Snapped Spud DCP12 SN2220180  - replacement frame on order
+23-282,2023-07-17 00:00:00,Customer Service,ET,Bike Drive Train,ET2611 hard to ride & chain skipping on first time riding - unresolved
+23-283,2023-07-17 00:00:00,Production,ET,,Serial number photos not available for previous 7 weeks. 
+23-284,2023-07-17 00:00:00,Production,Multiple,,Chrome seat post/Tray post from Taiwan has a solid rod stuck in it. Rusty took it out seat post is still usable
+23-285,2023-07-20 00:00:00,Customer Service,DCP,Bike Accessories,Creative mob bike delivered to customer - no foam padding on leg braces. 
+23-286,2023-07-20 00:00:00,Customer Service,,,SN image missing for RL220M008
+23-287,2023-07-21 00:00:00,Customer Service,,,"Parts order shipped incorrect size tires & tubes, missing chest harness. No pick ticket checks, only Elaine's highlighting. sent replacement parts order"
+23-288,2023-07-21 00:00:00,Customer Service,DCP,Bike Frame,Snapped spud on DCP16 - @ fci for repair
+23-289,2023-07-21 00:00:00,Customer Service,ET,Bike Drive Train,"ET2611 - 'chain snapped and fell off on first ride' - had repaired at a bike shop with new chain, resolved. "
+23-290,2023-07-24 00:00:00,Customer Service,ASR,,"O23-19676 order shipped with no backrest, was needed for repair on freight damage with time restraint. I submitted another parts order, however this short shippment has greatly complicated repairs."
+23-291,2023-07-25 00:00:00,Customer Service,,,O23-19589 short shipped with no grips. sent replacement. 
+23-292,2023-07-26 00:00:00,Customer Service,Chill-Out Chair,Bike Accessories,COC shipped with Rock'er base unassembeled and no instructions & missing 4 washers.
+23-293,2023-07-26 00:00:00,Customer Service,,,O23-19801-K1B0 incorrectly quoted. Colin provided multipul part numbers and Mike missed one on the order. Colin corrected before shipping!
+23-294,2023-07-26 00:00:00,Customer Service,,,Customer on a mini unable to reach pedals as they are positoned under the seat. Adult rider on an EXT mini - will find a bike shop to modify - unresolved. 
+23-295,2023-07-28 00:00:00,Customer Service,,,Incorrect tracking number listed on CRM copy of invoice and sent to customer. 
+23-296,2023-07-28 00:00:00,Customer Service,,,"Thumbscrews missing on delivery from leg braces, sent replacements"
+23-297,2023-07-31 00:00:00,Customer Service,,,"No SN in drive - this is extrememly important for this situation, I need an image of this custom set up bike to send to a bike shop and can not. I went through the year and found many images with no image name changed, none matched this SN but these images also should be renamed to the correct SN. "
+23-298,2023-08-01 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,"COC tray mounted to the incorrect side - was selected RH in config as the only selectable option however was well noted in manuf notes for tray to be on LH side, Elaine had also hand written in the part number on the pick ticket.  Order change was never made in CRM, not noticed by assembly or shipping, this chair also does not have a QA form attached. "
+23-299,2023-08-01 00:00:00,Customer Service,,,"SN2230545 photo is blurry, not detailed enough for me to see how close the front tire is to the centering spring. "
+23-300,2023-08-01 00:00:00,Customer Service,,,AS2000 front tire is contacting centering spring on deliver. Facetime and found tilt fork at the lowest postion and causing the centering spring to contact the front tire. Instructed customer to raise tilt fork and resolved. 
+23-301,2023-08-01 00:00:00,Production,EHDU,Bike Seating,"Custom hand cycle pick ticket not clear on all parts needed: seat slider and rear seat mount normally not part of kits, but BOM, not indicated anywhere on the pick ticket."
+23-302,2023-08-02 00:00:00,Customer Service,,,"ET2611 fixed / solid tensioner - customer installed incorrectly and caused chain line issues, was not aware of the two different size bolts in the kit to accomidate different idler positions. Need to update instructions"
+23-303,2023-08-03 00:00:00,Shipping,,,Some Serial Number Photos too blurry to read serial nuimber
+23-304,2023-08-04 00:00:00,Customer Service,,,"Parts order had a child HB with tnuts for laterals, same as existing backrest. Order was submitted 07/28 with 08/07 ESD which is 6 business days. Alvin came to me afternoon Friday 08/04 as he is starting to pick this parts order and now realizes we need Gary to make this backrest w/ tnuts which will now push the ESD well past. This order should have gone to Gary on day 1 with the request, rather than the day before the order is supposed to ship. "
+23-305,2023-08-04 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,"When quoting COC accessories, there is only one price no matter the material. We should have two different options, adding one at a higher price to account for the premium fabric. For example a 3 piece cushion set should be more expensive with a Prairie fabric. "
+23-306,2023-08-08 00:00:00,Customer Service,,,"SN issues. Customer supplied a SN photo which does not match the SN log or CRM orde. Correct SN label should have been 2230768. The QA paperwork lists the correct sn, but looks like was originally entered 222xxx over wrote 223xxxx, the QA paperwork has the SN field checked all good. "
+23-307,2023-08-08 00:00:00,Customer Service,,,"There have been multpul parts orders which Elaine didn't think had shipped and showed overdue, she says was still live in GP. I went through all of the hard copies and found she had shipped the orders and even written tracking numbers and invoce numbers, two orders were found to have no shipped and apparently never recieved paper work for. Those parts orders are on the parts production board so I am not sure how paperwork was not rec. "
+23-308,2023-08-08 00:00:00,Customer Service,,,"No instructions sent with parts order, both sets of instructions exist in t:"
+23-309,2023-08-08 00:00:00,Customer Service,ASR,Bike Accessories,"ASR tbar kit P# 2111469 - lower bolt too short. Information in kit correct & correct length bolt shipped however too short to fit. Instructions mention the bolt should be 3.5"" which would be a good length, kit lists a 2.75"" which is too short. "
+23-310,2023-08-09 00:00:00,Production,ASR,Bike Drive Train,ASR order has 2012027 bottom bracket kit but it shouldn't - covered in BOM
+23-311,2023-08-09 00:00:00,Production,ASR,Bike Steering,Several ASR steer rotation pipes have top opening pinched (oblong instead of round) so that a stem bolt top cap cannot be inserted. I had to put them in the vice and round them out with a pry bar.
+23-312,2023-08-10 00:00:00,Production,EHDU,Bike Drive Train,"part number 3420076 and 3420074, 10 pcs each all painted was fabricated with wrong material size (3841878x8_625) "
+23-313,2023-08-15 00:00:00,Customer Service,ET,Bike Drive Train,ET2611 stripped crank arm 
+23-314,2023-08-15 00:00:00,Customer Service,,,"Incorrect chest harness size shipped on parts order - no charge replacement shipped. (chest harness was preinstalled onto seat, have have been an assembly error rather than shipping)"
+23-315,2023-08-15 00:00:00,Customer Service,,,"SN2230539 photo missing, shipped on 06/14"
+23-316,2023-08-15 00:00:00,Customer Service,ET,,No electric assist instructions or power cable sent with O23-18959-W1H9   (Instructions out dated and on my to do list)
+23-317,2023-08-23 00:00:00,Production,ASR,Bike Accessories,ASR with rearsteer and electric assist causes issues with access to the key on the battery. Bike has throttle on rearsteer so we sent it under the assumtion the opperator will be able to access it but for future bikes this may become a problem.
+23-318,2023-08-23 00:00:00,Customer Service,,Bike Accessories,"Customer requested sunshade canopy as per eval, recieved versa-brella with other manufacture label still attached. "
+23-319,2023-08-24 00:00:00,Customer Service,,,Harware loosened and fell out of ratchet strap
+23-320,2023-08-25 00:00:00,Customer Service,,,Commercial invoice not sent with UPS call tags for return shippment
+23-321,2023-08-25 00:00:00,Customer Service,AS,Bike Frame,AS2000 snapped spud (old style frame)
+23-322,2023-08-28 00:00:00,Customer Service,DCP,Bike Frame,DCP12 - snapped spud tube. Local bike here for repair
+23-323,2023-08-28 00:00:00,Customer Service,,,"part names are not spelled similar in the config, minor issue. (tbar / t-bar) (highback / high back) (rear steer / rearsteer) (low back / lowback)"
+23-324,2023-08-30 00:00:00,Customer Service,Chill-Out Chair,COC Cover,Customer recieved Roll'er with no velcro on the ottoman. It was also written on the pick ticket 'marketing wants pics' but the note was missed and pics not taken.  Replacement order will be submitted. 
+23-325,2023-09-01 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,"Broken brake on a Roll'er caster, sent warranty replacement."
+23-326,2023-09-01 00:00:00,Customer Service,ET,Bike Steering,Customer not comfortable riding on the rear of ET2611 as the handlebars are too high for a kiddo's mom to be comfortable. 
+23-327,2023-09-06 00:00:00,Customer Service,,,SN not available & shipped Aug 10th. 
+,2023-09-11 00:00:00,Production,EHDU,Bike Seating,EHDu20 p/o does not list seat frame
+23-328,2023-09-11 00:00:00,Customer Service,,,"SN2230838 photo not in log - needed for incident with customer. Bike arrived with no electric assist charging cable, bent rotor and missing set screw"
+23-329,2023-09-11 00:00:00,Customer Service,ASR2011,,"ASR2011 w/ electric assit not sent with charging cable, missing set screw in rotor hub. "
+,2023-09-11 00:00:00,Production,ASR,Bike Steering,"ASR cable tensioner, 2411411, have shitty threads that don't allow the jam nut to thread on, and result in a ball joint that can't be easily adjusted. taps and dies don't work. 85% of them have this problem."
+23-331,2023-09-12 00:00:00,Customer Service,ASR,Bike Accessories,"ASR16 with electric assist, charging cable and instructions not with bike when delivered. Customer also concerned that the battery was dead on arrival, they assumed it would have arrived charged. (how did we test the electric assist in QC with a dead battery? or is the customer not using correctly due to lack of instructions. )"
+23-332,2023-09-12 00:00:00,Customer Service,,,"O23-20159 ESD was 08/31, no new ESD provided. Part order has still not shipped and customer has inquired a few times for an eta.    handlebar kit and 3 bolt stem are taking 2 weeks to ship."
+23-333,2023-09-12 00:00:00,Customer Service,,,"ET2611 had electric assist on the order, but was not on the pick ticket. "
+23-334,2023-09-12 00:00:00,Customer Service,ET,,No SN photo for SN2230561   -   again for this I really needed to see the bike to help the customer. These SN photos should be a requirement before the bike ships. Not having the photos costs me a lot of additoinal time troubleshooting. 
+23-335,2023-09-12 00:00:00,Customer Service,AS,Bike Accessories,one lateral missing on delivery AS2000 O
+23-336,2023-09-12 00:00:00,Customer Service,ASR,,There have been a few cases on an ASR with drag brake where the t-bar is missing / not quoted. Can we get a seperate kit which includes the tbar for drag brakes on ASR's? 
+,2023-09-13 00:00:00,Production,ASR,Bike Steering,ASR cable tensioner has messed threads. can force on but not going to be easy to adjust for the assembler
+,2023-09-13 00:00:00,Production,ASR,,ASR p/o has 2012027 for bottom bracket but it shouldn't
+,2023-09-13 00:00:00,Production,ASR,,ASR cable tensioner has messed threads. can force on but not going to be easy to adjust for the assembler. ball joints also have rough threads which don't help - i am tapping these.
+23-340,2023-09-14 00:00:00,Customer Service,,,Ratchet strap has fallen off the footplate - hardware loosened
+23-341,2023-09-15 00:00:00,Customer Service,ASR,Bike Seating,ASR2011 HD seat slider failure. 
+23-342,2023-09-15 00:00:00,Customer Service,,,No SN photo 2210604
+23-343,2023-09-19 00:00:00,Customer Service,Chill-Out Chair,,No SN photo for RL223M251   -  the chair was delivered with possible missing parts. I was hoping to see what shipped with the chair to help the customer.   
+23-344,2023-09-20 00:00:00,Customer Service,ASR,Bike Drive Train,"ASR2011 chain falling off, this trike has a mid hub - found only 1 of 9 bolts remaining which hold sprocket to hub."
+,2023-09-21 00:00:00,Production,EHDU,Bike Drive Train,"EHDU12 lists Wide Glide frame (2503206) but the wheel kit EHD 12"" Steel (2112805) has standard length DCP axle 28 1/4"" (2612218)"
+23-345,2023-09-22 00:00:00,Customer Service,ET,Bike Drive Train,"ET2611 - was missing electric assist - customer picked up and now hub contacting and rubbing against frame, sent a video which sounds like it is grinding bad - asked customer to verify. The chain guard may also be bent, I was hoping to check the sn photo to see how it left our facility but non exist. "
+23-346,2023-09-22 00:00:00,Customer Service,,,"SN2230871 - Again no SN photo. In the SN folder, there are qty 55 'Indiscernible' sn photos from 2023 alone.... "
+23-347,2023-09-22 00:00:00,Customer Service,DCP,Bike Accessories,"Incorrect sunshades sent on two dejay orders  - 3 sunshades total. We sent the universal instead of what was ordered and paid for. Is it possible to check before swapping to the universal style? In this case, the MSRP on the sunshades was $480.00 but we still sent universals"
+23-348,2023-09-25 00:00:00,Customer Service,,,"Order submitted Fri 09/15 w/ Tues 09/19 ESD.     Thurs 09/21 I emailed asking when was going to ship, never recieved a reply.  Monday 09/25 order has still not shipped. This trike is not usable and school has been asking where their part is, I provided orig ESD but we are now well past. "
+23-349,2023-09-26 00:00:00,Production,Multiple,Bike Seating,"Two recent orders have called for seat belt kits with small and extra large seat belts sizes. The matching seat belt, which exists as part of the seatback kit, are not size matched to the seatbelt kit, but are size matched to the backrest. So, the small seat bealt for the mini had a medium seat belt across the chest, and the extra large seat belt for the ASR had a large seat belt across the chest."
+23-350,2023-09-26 00:00:00,Production,EHDU,Bike Drive Train,BOM for EHDU20 lists an EHDO BB Stem 2460436. Tony says it should be ehdu bb stem.
+23-351,2023-09-27 00:00:00,Customer Service,ET,Bike Accessories,ET2611 will charge fully however after only a few feet of riding the battery level will drop to amber. Customer has tried two chargers and different outlets. Placed a parts order for a replacement battery. 
+23-352,2023-09-27 00:00:00,Customer Service,ASR,Bike Seating,Another Vibank issue - Seat frame has snapped in two. 
+23-353,2023-09-28 00:00:00,Production,,,"out of spec 3414432 ( 44 pcs) - remake all, took me 1.5 hours to figure out root cause and figure out a plan to correct and arrange with Fabrictation. 2 hours to make all 44 pcs again."
+23-354,2023-09-28 00:00:00,Customer Service,ET,,Customer called due to a front flat tire on an ET2611 - was concerned he could not remove the front wheel as there is no connector on the wiring harness. 
+23-355,2023-09-28 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,"Roll'er had 4 locking casters on the order & mfg notes, arrived with only 1 locking castor. Also quoted and submitted the order for the incorrect size. "
+23-356,2023-09-28 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,"Roll'er has 5"" locking casters but this raises the height of the chair so that the velcro no longer lines up on the ottoman."
+23-357,2023-10-03 00:00:00,Production,AS,Bike Frame,"self-centering spring tab incorrect placement on the frame, addressed with spring 1/4"" shorter."
+23-358,2023-10-03 00:00:00,Production,AS,Bike Frame,"self-centering spring tab incorrect placement on the frame, will need spring that is 1/4"" shorter."
+23-359,2023-10-03 00:00:00,Customer Service,ASR,Bike Accessories,Pedallic sensor parts order shipped for ASR16 SN2230863 however sensor mounting does not work with eccentric BB. Colin working on a solution
+,2023-10-12 00:00:00,Production,EHDU,Bike Drive Train,"EHDU16 order has 2112802 Wheel Kit - EHD 16"", Solid Tires which has two ASR axles rather than a DCPWG axle"
+23-360,2023-10-16 00:00:00,Customer Service,Multiple,Bike Accessories,"Seton's childrens asking for new footplates as they straps keep loosening and falling off ratchet footplates. dcp12, x2 DCP16 & AS2000. I also find this seldomly at schools."
+23-361,2023-10-16 00:00:00,Production,EHDU,Bike Brakes,"EHDU has 2113211 ""brake kit - DCP caliper, rear steer location, 2nd lever w splitter"" but also ""no front brake"" option. Why is splitter listed?"
+23-362,2023-10-16 00:00:00,Production,Multiple,Bike Drive Train,1/2 PH machine screws are not long enough for the extra large molded footplates. The ends of the screws do not reach the nylon lockring inside the 10-24 nut. I've made two pairs today. These should be changed to 5/8 at least.
+23-363,2023-10-17 00:00:00,Production,Multiple,Bike Steering,"2411042 fabricated incorrectly in last batch of 50. Tab used has wrong size hole. Should be 3/8"" hole, tab has 1/4""."
+23-364,2023-10-18 00:00:00,Production,ASR,Bike Brakes, ASR16 has an AS parking brake.
+23-364,2023-10-19 00:00:00,Production,Multiple,Bike Steering,"tilt fork acme threaded rod is sticking out too far from the bottom of the lowers. Additional washers are necessary, and they dangle and jangle."
+23-365,2023-10-20 00:00:00,Production,AS,Bike Drive Train,missedpick - O23-20364-B0N7 AS 2000 XT missing disc brakes on cart
+23-366,2023-10-23 00:00:00,Production,ASR,Bike Brakes,ASR16 has as20 parking brake
+23-367,2023-10-23 00:00:00,Production,ASR,Bike Steering,1/4NF jam nut won't thread on asr cable tensioner 2411441
+23-368,2023-10-23 00:00:00,Production,ASR,Bike Steering,ASR cable tensioner 24111441 won't thread into ball joint
+23-369,2023-10-23 00:00:00,Customer Service,ASR,Bike Drive Train,demo asr has loose chain which is now rubbing on the chain guard. (does this have an eccentric BB?)
+23-370,2023-10-23 00:00:00,Customer Service,ET2611,Bike Drive Train,Front riders BB is spinning loose in the frame. Threaded cup unscrewed or stripped from shell. 
+23-371,2023-10-23 00:00:00,Customer Service,AS,Bike Frame,AS2000 - snapped spud
+,2023-10-24 00:00:00,Production,ASR,Bike Steering,ASR cable tensioner 24111441 won't thread into ball joint smoothly
+,2023-10-24 00:00:00,Production,ASR,Bike Steering,ASR cable tensioner 24111441 won't thread into jam nuts
+,2023-10-24 00:00:00,Production,Multiple,Bike Drive Train,HD Solid tire wheels have a different spoke cross pattern that makes it difficult or impossible to affix a reflector
+23-375,2023-10-25 00:00:00,Customer Service,,,SN photo missing
+,2023-10-26 00:00:00,Production,EHDO,Bike Seating,"EHDO bike has mismatched seat belt sizes: a LRG seat belt kit, and a medium seat belt in the backrest kit 2114105"
+23-377,2023-10-26 00:00:00,Customer Service,AS,Bike Drive Train,Chain is reported falling off and can not pedal - unresolved
+23-378,2023-10-26 00:00:00,Customer Service,AS,Bike Drive Train,Chain is reported slipping and can not pedal - unresolved
+23-379,2023-10-26 00:00:00,Customer Service,DCP,Bike Drive Train,Chain is reported slipping and can not pedal - unresolved
+23-380,2023-10-26 00:00:00,Customer Service,ET,Bike Accessories,Incorrect charger sent - connector size incorrect - replacement order submitted. 
+23-381,2023-10-26 00:00:00,Customer Service,DCP,Bike Brakes,"RS brake lever pin will not engauge, lever contacting grip. - replacement lever order submitted"
+23-382,2023-10-26 00:00:00,Customer Service,,,"Proforma's not being attached to return packages by customer, or not being supplied to customers. 3 UPS holds this week due to missing proforma. Tracking numbers are not searchable in CRM as they are entered in footnotes. Is it possible to have a searchable field in CRM where the tracking numbers can be entered rather than the invoice's footnotes? & shipping instruction sheet sent with return UPS tags?"
+23-383,2023-10-26 00:00:00,Production,ASR,Bike Drive Train,ASR16 has bottom bracket kit 2012027
+23-384,2023-10-27 00:00:00,Customer Service,ASR,Bike Drive Train,rear sprocket slipping on axle 
+23-385,2023-10-27 00:00:00,Customer Service,AS,Bike Drive Train,On/off pin plunger snapped off and pin stuck in assembly and locked into direct drive. 
+23-386,2023-10-30 00:00:00,Customer Service,ASR,Bike Drive Train,"Reported sprocket spinning on axle & chain fell off. From the image, no dimples drilled. "
+23-387,2023-10-31 00:00:00,Production,DCP,Bike Drive Train,"DCP16 has mismatch tire option and wheel kit. says ""aluminum"" in place of smooth solid"
+23-388,2023-11-01 00:00:00,Production,Multiple,Bike Drive Train,Ratchet ladder straps are difficult to push past hardware on the toe strap bracket. Almost impossible without a flat head screw driver to pry them. Can use the ratcher lever to push the strap past the hardware without too much trouble. Washer currently being used does not match the the kit information.
+23-389,2023-11-02 00:00:00,Customer Service,Chill-Out Chair,COC Cover,Coc covers going through top stitch are taking longer than 4 weeks to manufacture making ESD's not accurate
+23-390,nov 2,Customer Service,ET,Bike Steering,ET2611 rear steer handlebar loosened and was unable to steer. Customer says the front wheel started to shake violently. - sent instructions to tighten.
+23-391,2023-11-02 00:00:00,Customer Service,AS,Bike Seating,AS2000 seat frame weld failure
+23-392,2023-11-07 00:00:00,Production,Multiple,Bike Accessories,6410060 decal from contempra received as wrong size
+23-393,2023-11-07 00:00:00,Customer Service,ASR,Bike Drive Train,Rear sprocket spinning on axle - newer trike
+23-394,2023-11-07 00:00:00,Customer Service,DCP,Bike Frame,"DCP12 had pooling paint cause by frame porosity and ""not acceptable to resell"""
+23-395,2023-11-08 00:00:00,Customer Service,,,"Parts order arrived with damaged box. Damaged powercoat,  missing hardware, instructions & plug ends for the pushbar. - unresolved."
+23-396,2023-11-08 00:00:00,Customer Service,,,"Missing pair of ankle harnesses on parts order, had qty 2 but only 1 recieved. Package in good cond, likely a picking error. Replacment sent. "
+23-397,2023-11-09 00:00:00,Production,Multiple,Bike Steering,"Tilt fork slotted tubes are getting scratched up when turned with the ratchet. Kitters do this to double check the full range of the fork extension. Most of the slotted tube is hidden inside the fork tine during typical customer use, but some scratching can be seen at the top of the slotted tube when the tilt fork is fully contracted. The scratching is caused by a weld seam inside the fork tine. Could try to smooth this out with a circular sanding bit."
+23-398,2023-11-10 00:00:00,Customer Service,Chill-Out Chair,COC Cover,"5 COC's ordered with two small side accessory sleeve pockets, was intended to have one on each side however. No order notes on to indicate pocket location. Chairs were manufactured with both small pockets on one side. Vendor has agreed to keep and use as they are. RC223X194, RC223X195, RC223X196, RC223X197, RC223X198. SN photos not backing up customer story, see photos. (only one part number exists for side pocket and is RHS specific, should RH be std but LH be an selectable P#?)"
+23-399,2023-11-10 00:00:00,Customer Service,Chill-Out Chair,,"Two Chill-Out chairs were delivered to incorrect customers. Chairs and packing slips correct however shipping address box labels incorrect. One customer will keep incorrect chair, other customer has asked for a replacement. "
+23-400,2023-11-10 00:00:00,Customer Service,,Bike Accessories,"DCP12 shipped with i2i however no red chin prompt included in package, according to engineering chin prompt no longer offered with i2i. Evals now incorrect as they show the chin prompt as dows our website. Spoke with Larry, he was not aware of the change and said the chin prompt is almost always needed. "
+23-401,2023-11-13 00:00:00,Customer Service,ASR,Bike Drive Train,ASR2011 fixed sprocket scheered from hub - replacement sent on O23-20768
+23-402,2023-11-15 00:00:00,Customer Service,Chill-Out Chair,COC Cover,"COC cover made to fit a large RL214L013 which was the SN provided, however the SN tag also listed the chair as a M  - replacement order O23-20786 submitted and information provided to Dirk. "
+23-403,2023-11-16 00:00:00,Customer Service,DCP,Bike Seating,"Lap belt not holding secure, the belt is slipping in the buckle. Sending Jaydene a replacement"
+23-404,2023-11-16 00:00:00,Customer Service,,,"Customer ordered two tie rods, only one recieved in box. Replacement order submitted"
+23-405,2023-11-20 00:00:00,Customer Service,ASR,Bike Drive Train,"Hal reported a slipping sprocket, says they have retightened a few times but axle has now snapped. "
+23-406,2023-11-21 00:00:00,Customer Service,AS,Bike Seating,Customer reports highback w/ ext is flexing and hitting his hand when placed on the tbar. Customer says flexing enough for the seat frame screws to loosen up. Customer has placed a block of wood to correct the issue for now. 
+23-407,2023-11-22 00:00:00,Production,DCP,Bike Steering,Order has rear steer option but does not show the rear steer kits. Does show a rear steer brake. 
+23-408,2023-11-23 00:00:00,Customer Service,ASR,Bike Drive Train,Slipping sprocket on axle. 
+23-409,2023-11-23 00:00:00,Customer Service,ASR,Bike Drive Train,Slipping sprocket on axle
+23-410,2023-11-23 00:00:00,Customer Service,ASR,Bike Drive Train,Slipping sprocket on axle
+23-411,2023-11-24 00:00:00,Production,ASR,Bike Seating,Rear contour line of Adult Extra Large seatbase (6114019) does not match the contour line of the Adult Extra Large Backrest (2114025). An unsightly gap appears between them. Pressing the seatbase into the backrest does not entirely eliminate the problem and makes it difficult to slide the seatbelts into place. This has happened on the last 3 extra large seats I've assembled. 
+23-412,2023-11-24 00:00:00,Customer Service,DCP,Bike Frame,Snapped spud - likely due to damaged caused by an airline.
+23-413,2023-11-24 00:00:00,Customer Service,,,"Red on/off plunger stripped.    Customer called who had recieved a replacement on/off & was advised the red pin plunger seemed to be loose, customer removed it and noticed the threads were stripped or cross threaded. Female threads were in good shape."
+23-414,2023-11-28 00:00:00,Customer Service,AS,,AS2600 damage during transport
+23-415,2023-11-29 00:00:00,Customer Service,AS,Bike Steering,AS2000 fork tab snapped & SN label incorrect as the sn does not exist.
+23-416,2023-11-30 00:00:00,Customer Service,Chill-Out Chair,COC Cover,Replacement ottoman cover has a damaged zipper on delivery. 
+23-417,2023-11-30 00:00:00,Customer Service,ASR,Bike Seating,ASR2011 seat slider warped - has been replaced 
+23-418,2023-11-30 00:00:00,Customer Service,ASR,Bike Drive Train,"ASR2011 BB spun out of frame, wore a groove to the inside of the crank arm - reinstalled with threadlock"
+23-419,2023-12-01 00:00:00,Customer Service,Chill-Out Chair,COC Cover,"Medbloc liner too small to fit over chair, this was a no charge parts order to correct a prev internal error. Plese see time tracking sheet notes in images. "
+23-420,2023-12-01 00:00:00,Customer Service,,,Transport cover damaged on arrival - box was damaged but not signed as damaged. 
+23-421,2023-12-05 00:00:00,Customer Service,,,"Incorrect size wheel covers sent on O23-20872, needed 26in & shipped 24in. Replacement order submitted"
+23-422,2023-12-05 00:00:00,Customer Service,ASR,Bike Drive Train,"Sprocket appears to have a set screw but has shifted to the side, scoring the axle in the process. parts order O23-20999 Mot Miss"
+23-423,2023-12-05 00:00:00,Customer Service,ASR,Bike Drive Train,Sprocket slippin on rear axle - HD parts order O23-21000 - Mot Miss
+23-424,2023-12-11 00:00:00,Production,Multiple,Bike Drive Train,"This morning, Mitch asked me to make him a footplate, based on the inclusion of custom foot tracing in the notes, but it was an adjustable footplate option. To further my conversation with Iain on custom foot tracing inclusions from earlier in November, I still think inclusions of foot/shoe tracings are confusing for kitting. In this case, no custom work would be done, as adjustable footplates are not cut to size. Why was the foot tracing penciled in beside the footplate kit? Why was it included in the notes? I think someone further up the commuinication chain should make a determination regarding the actual footplate size and whether custom work should be done, and *only* information pretaining to that should be included in the order. This means only length measurements on molded footplates."
+23-425,2023-12-11 00:00:00,Customer Service,AS,Bike Steering,snapped tie rod - part quote supplied.
+23-426,2023-12-12 00:00:00,Production,,,"Order calls for custom footplate in the notes: molded ratcheting medium with small length. The width of a small and medium footplate are the same, which means, if there's a ""small length"" then I just need to put a small ratcheting footplate on the cart. There's no need for other work to be done. The configurator shows medium footplate. I included small."
+23-427,2023-12-14 00:00:00,Customer Service,Chill-Out Chair,,2023 COC eval showing old style chair with old style headrest. Customer was expecting a different style headrest as shown on the eval. 
+23-428,2023-12-15 00:00:00,Production,EHDO,Bike Frame,"Main tubes on EHDO frame approx. 1/2"" too long, extending towards fork, limiting steering radius. Cable tensioner ground down to fit inside alumn. Bushing to increase steering radius. "
+23-429,2023-12-15 00:00:00,Customer Service,AS,Bike Accessories,Snapped leg brace cuff
+23-430,2023-12-19 00:00:00,Customer Service,ASR,Bike Seating,Snapped ASR seat frame part
+23-431,2023-12-21 00:00:00,Customer Service,Chill-Out Chair,COC Cover,"Replacement COC  cover too small to fit ottoman and lots of extra material on the butt portion of the chair, so much that it is bunching up and over lapping. "
+23-432,2023-12-21 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,"Pelvic belt add-on kit shipped with no instructions. Numotion rep through it was quick to add on and just clipped into place, did not have a hole saw or needed tools. Is it possible for instructions to be added to the kit part number so it is not forgotten?"
+24-001,2024-01-02 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,Pelvic pad seam coming undone. Repl part order submitted. 
+24-002,2024-01-02 00:00:00,Customer Service,ASR,Bike Frame,Vibank ASR - rotational frame damage. This trike has had many issues & not sure the cause. 
+24-003,2024-01-03 00:00:00,Sales,dco12,,"handlebars would not stay in place , rider would constantly pull them into their lap - unacceptable !"
+24-004,2024-01-03 00:00:00,Customer Service,AS,Bike Steering,"handlebars not locking, stem slipping in fork. Tested with another stem and held securly. Sending replacement stem on O24-21219"
+24-005,2024-01-04 00:00:00,Customer Service,ASR,Bike Accessories,Snapped footplate
+24-006,2024-01-04 00:00:00,Customer Service,ASR,Bike Accessories,"Inner tube valve stem shifting sideways & cutting into the stem, tires PSI was monitered and never below 35."
+24-007,2024-01-08 00:00:00,Customer Service,DCP,Bike Drive Train,"As advised on/off pin missing, found female threads stripped. Replaced on/off assy. "
+24-008,2024-01-08 00:00:00,Customer Service,ASR,Bike Drive Train,Eccentric BB spun inwards into the trike frame causing the crank arm to rub against the frame. 
+24-009,2024-01-09 00:00:00,Customer Service,,,Washers and thumbwheels short shipped on O24-21262 - sent replacement
+24-010,2024-01-12 00:00:00,Customer Service,Chill-Out Chair,,No SN photo
+24-011,2024-01-12 00:00:00,Customer Service,ASR,Bike Drive Train,loose spokes & missing hardware on wheel cover - warranty parts order submitted. This is another ASR issue for Motion Miss.
+24-012,2024-01-15 00:00:00,Customer Service,,,"Config showing 3 different blacks on one trike order. Matte black, Black & Gloss Black. Can the colour naming structure be the same for all painted pieces to prevent confusion. "
+24-013,2024-01-15 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,None of the four casters are locking on COC
+24-014,2024-01-15 00:00:00,Customer Service,Chill-Out Chair,COC Cover,Split seam on a COC
+24-015,2024-01-15 00:00:00,Customer Service,DCP,Bike Seating,"Customer backrest extension not able to be adjusted, only two of the thumbwheels line up to the tnuts. Likely the backrest extension brackets were screwed to headrest with only only two thumb wheels installed causing miss alignment. "
+24-015,2024-01-15 00:00:00,Customer Service,,,"Stationary trainer installation issues. No instructions sent with trainer. Assisting customer via facetime and drive wheel trainer bracket under 7/16ths nuts not sitting straight vertical but clocked to about 1 Oclock causing trainer to lift up  on one corner. possuble cause, bearing  hangers not welded at correct angle. (should trainers be test fit as part of QA? instruction stickers attached to trainer?"
+24-016,2024-01-16 00:00:00,Customer Service,ASR,Bike Drive Train,"Complaint of chain rubbing. Inspected and found eccentric bb has shifted to the rh side causing the chain to rub against the inside of the enclosed chain guard. Found the two lh setscrews on the ecc BB loose, one of which was almost all the way out of the BB shell. Was able to reinstall and resolve issue. "
+24-017,2024-01-16 00:00:00,Customer Service,ASR,Bike Drive Train,"Loud creaking  noise from 16"" wheel while riding, seemed to be coming from the spokes. "
+24-018,2024-01-16 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,"No small pommel, config selects a med-lrg pommel in the config for a small chair. Spoke w/ Iain and small is supposed to be 3"" wide."
+24-019,2024-01-17 00:00:00,Customer Service,,,"Mtn pedals P#2112081 with toe cage - sold as a kit w/ no mention of being a pair. All other pedals and footplates have 'pair' in the parts description, vendors think they need qty 2 of these pedals when ordering. Can we change the description to match others?"
+24-020,2024-01-17 00:00:00,Customer Service,,,"On/Off short shipped, address incorrect on UPS label & customers first name incorrectly spelt. Customer was not pleased. "
+24-021,2024-01-17 00:00:00,Customer Service,,,"P# 5013029 'Brake disc & caliper set' - I don’t believe this includes the brake disc as the description suggests, and it is not a kit with components listed. Is it possible to either change the desc. or add to the kits with the components listed?"
+24-022,2024-01-18 00:00:00,Customer Service,DCP,,Dejay DCP16 arrive with bent fork & possible bent front wheel
+24-023,2024-01-22 00:00:00,Customer Service,DCP,Bike Seating,"Kiddo unable to reach pedals, trike has a tilt seatframe. Even after adding spacers and a narrow seat, the child is unable to pedal, unable to complete range of motion.  ""the tilt seat has caused so many issues for us that is why I have fought to have it removed off the evals and asked Jen and Sara to no longer quote it even"""
+24-024,2024-01-24 00:00:00,Customer Service,DCP,Bike Drive Train,"DCP16 chain making grinding and poping noises on first ride, chain was extremely tight. Customer loosened 6 BB bolts and was able to slide back BB to give some chain slack. (says no spring pin in BB, loosened and slid back easy) however now the chain is too loose and coming off.   (what are our chain tension specs? I have seen trikes with the chain so tight the on/off wont function )"
+24-025,2024-01-24 00:00:00,Customer Service,ASR,Bike Drive Train,ASR2011 loose wheel spokes & snapped footplate - warranty parts order submitted
+24-026,2024-01-26 00:00:00,Customer Service,,,No instructions sent with parts order - these pulley string instructions were recently redone.
+24-027,2024-01-29 00:00:00,Customer Service,,,"Missing taper crank bolt on O23-21167 - Pick ticket has no check marks, not sure if order was checked before shipping. I have also asked the customer to recheck the box. "
+24-028,2024-01-29 00:00:00,Customer Service,ASR,Bike Accessories,ASR ankle harness and chainguard decal damaged during transport. 
+24-029,2024-01-31 00:00:00,Customer Service,,Bike Accessories,2 small pairs of gloves on PO- We sent 1 med pair and 1 small pair order was sent with no packing slip
+24-030,2024-02-06 00:00:00,Customer Service,DCP,,"snapped stainless steel bottom bracket hardware, new trike. sent repl on O24-21483   unknown trike."
+24-031,2024-02-06 00:00:00,Customer Service,DCP,,No SN photo - needed to resolve customer issue. 
+24-032,2024-02-08 00:00:00,Customer Service,,,"Grip tape lifting on new trike, the moment dirt or dust gets on the adhesive it will never stick back down & a possible saftey issue. "
+24-033,2024-02-08 00:00:00,Customer Service,DCP,Bike Frame,DCPmini - snapped spud
+24-034,2024-02-09 00:00:00,Customer Service,DCP,Bike Frame,DCPmini - snapped spud
+24-035,2024-02-12 00:00:00,Customer Service,,,"O24-21270 order past ESD, order is on the production board. Checked with Elaine who did not have a paper copy of the order, advised that the pick ticket may have not been handed back after being picked and no way to tell.  "
+24-036,2024-02-13 00:00:00,Customer Service,,,Damaged rocker base on delivery 
+24-037,2024-02-13 00:00:00,Customer Service,Chill-Out Chair,,"Rock'er serialized as roller, sn on chair listed as RL224L021 when this is a rocker. Customer verified. "
+24-038,2024-02-20 00:00:00,Customer Service,ASR,Bike Drive Train,"repeat of 24-011 - ASR DW had spoke loosen and wheel fail, sent replacement and was installed by a bike shop mid January. Reported today that the replacement has now also failed. order submitted 21561"
+24-039,2024-02-20 00:00:00,Customer Service,Chill-Out Chair,Bike Accessories,pushbar missing from Roll'er - SN photo does not show it installed - QA checksheet incorrectly checked off. repl order sent.
+24-040,2024-02-21 00:00:00,Customer Service,,,"O24-21524 - chest harness short shipped. No pick ticket, no check marks, no highlights. "
+24-042,2024-02-26 00:00:00,Customer Service,ET,Bike Drive Train,"Tandem Chain Issue - Customer complains that chain has fallen off multipul times, now falling off right away. Images show the spring style tensioner pitched upwards in the incorrect position, and the mid front hub has loosened and shifted. "
+24-043,2024-02-26 00:00:00,Customer Service,DCP,,"Creative DCP12 went out with incorrect backrest and no footplate spacers. Order was changed in GP and email went out to Elaine & Troianne, notes in the CRM, written on the outside of the file & corrected on the order confirmation sheet however the changes were not made to the trike. Emailed on Feb 7th, invoiced Feb 14th. QC forms do not make sure the trike is going out as ordered. "
+24-044,2024-02-26 00:00:00,Customer Service,,,"Pelvic belt straps not part of the kit, can they be added? As advised that they are in the BOM but no way to be added as a part of the kit. "
+24-045,2024-02-27 00:00:00,Customer Service,AS,Bike Accessories,"Flip up abductor causing skin issues due to constant rubbing on riders leg, has got to the point of an open wound and the rider can not ride until healed. Customer previously had a rifton with no issues with the abductor. Customer has provided images if the abductor showing wear marks. "
+24-044,2024-02-28 00:00:00,Customer Service,DCP,Bike Drive Train,"To continue 24-024 - I have confirmed that this trike did not have a spring pin (maybe incorrect), no holes in the frame. He has now reported that the rear sprocket is not aligned and will also need to be resolved.  *mention 30 in log meet."
+24-045,2024-02-28 00:00:00,Customer Service,DCP,Bike Accessories,Plunger fell out of on/off
+24-046,2024-03-04 00:00:00,Customer Service,DCP,Bike Accessories,Pulley scuffing frame
+24-047,2024-03-06 00:00:00,Engineering,ET,Bike Seating,"Declan notified me of a tandem front seat that was wobbling excessively on the post and seat slider. A fix of adding another self tapping screw on the seat tube was done first but it did not fix the issue. The seat slider was replaced by Jason, and he tightened all the fasteners within the system. This fixed the issue and resulted with the tandem seat having 0 wobble."
+24-048,2024-03-06 00:00:00,Engineering,COC,Modular Wedge,Modular wedge foam inconsitincies (tapered part having the biggest concern)
+24-049,2024-03-07 00:00:00,Customer Service,,,"5 pairs of custom trimmed footplates shipped with ratchet straps, were all suppsoed to be std molded. This order was already delayed as we didnt have enough footplates to trim. No checkmarks or highlights. "
+24-050,2024-03-12 00:00:00,Sales,ASR,,Sales order submitted before CAT3 completed. In this case proposed solution changed during the CAT3 process. Manufacturing notes with subitted order are now out of date and customer was over charged on a custom solution. 
+24-051,2024-03-14 00:00:00,Customer Service,ASR,,Snapping footplate - repl order with CAT3 submitted. 
+24-052,2024-03-15 00:00:00,Customer Service,,Bike Accessories,"Stationary trainer missing rubber feet on arrival. When placing the order, customer specifically asked if the trainer would scratch his floor, I explained the rubber feet only for it to arrive with most of them missing. "
+24-053,2024-03-15 00:00:00,Sales,,,"Engineering demo sold unbeknown to engineering & against advice it was unavailable, marked in CRM. Bike was filled with prototype components and many missing. Not safe for rider (e.g. no front brake pads). Near miss. "
+24-054,2024-03-18 00:00:00,Customer Service,AS,,"Broken chrome tie rod guide, plastic insert broken and slipping out. "
+24-055,2024-03-18 00:00:00,Sales,ASR,,"ASR2011-HD order modified post-CPQ to include 24"" wheels. 24"" wheels not available for HD, not permitted in CPQ. "
+24-056,2024-03-21 00:00:00,Customer Service,,,Castors damaged on delivery 
+24-057,2024-03-22 00:00:00,Customer Service,,,Parts order changed in GP but invoiced before changed in CRM. The information is now incorrect in CRM. 
+24-058,2024-03-22 00:00:00,Assembly,EHDU,,Frames are not properly inspected by shippers upon receiving from vendor. Paint is uneven that often times it has to be covered with decals
+24-060,2024-03-28 00:00:00,Customer Service,ASR,Bike Drive Train,Motion Mississauga - Slipping rear sprocket
+24-061,2024-04-01 00:00:00,Customer Service,DCP,,ratchet strap harware fell out and missing
+24-062,2024-04-01 00:00:00,Customer Service,ASR,,ratchet strap harware fell out and missing
+24-063,2024-04-01 00:00:00,Customer Service,DCPMini,Bike Steering,"Mini tie rod approx. 1/2"" too long in assembly. tie-rod matches drawing to ~1/8 o.a.l. Frame measures o.k. Cause unidentified. Bent tie-rod to fit. "
+24-065,2024-04-01 00:00:00,Customer Service,ASR,Bike Drive Train,Bottom bracket keeper unthreaded itself - Motion Mississauga trike
+24-066,2024-04-03 00:00:00,Customer Service,DCP,Bike Accessories,Customer recieved new trike with hoop jogging handle unattached however no instructions or image which shows how it attaches or orientates. 
+24-067,2024-04-03 00:00:00,Customer Service,EHDU,Bike Seating,"i2i not showing when selected in the config, attempted different configuations but would not populate in the parts summary."
+24-068,2024-04-04 00:00:00,Customer Service,AS,Multiple,"Installed an i2i for Shamrock school, the trike was brough to FCI for repair. There were two issues with this repair. The i2i which was installed had loose hardware for the hinges, as soon as I tightened up the hinges the headrest was good. Second issue was the girl could not ride the trike since coming back from spring brake and after we installed the i2i, she was having to reach too far and was way past her full extension while her feet were strapped into the pedals. When I was at the school I helped adjust the trike so the girl could ride again. I don't know for sure, but I suspect that when we installed the i2i we raised the seat height and was never put back to the correct position. When we are working on the trikes, the seating and setup needs to be set the the same place as when it came in. "
+24-069,2024-04-04 00:00:00,Customer Service,DCP,Bike Brakes,"Rear steer brake lever pin not engauging. Speaking with tech says pin not fully holding. After speaking with him further it was determined that the lever was not bent and hitting the rear steer handle. I tried to get him to bend it, he would not. Submitted warranty parts order. "
+24-070,2024-04-05 00:00:00,Customer Service,,,"Two parts orders shipped to Motion Burnaby - advised parts orders were not found or delivered. Our UPS tracking information showed the orders were delivered. This vendor warehouse is shared between a few businesses. The orders shipping labels at attn: but the attn employee is no longer working with this branch, but she does share the warehouse causing confusion. No attn: notes were on either of the parts orders in the manf notes or footnotes. One thing that was noted and changed, Ashley Sakelariou  was listed as a primary contact in CRM but is no longer. "
+24-072,2024-04-05 00:00:00,Customer Service,AS,Bike Drive Train,"AS2000 chain rubbing against chain guard, found two issues. 1 - Some of the hardware used to secure the enclosed chain guard was too long and contacting the chain under load or a change pedal direction.   2 - The bottom bracket was loose and under a load would shift/ rock from side to side. All 6 fasteners were a little more than finger tight, maybe 15 ft lb. The inside of the chain guard had ware marks from where the chain and chain ring were rubbing."
+24-073,2024-04-16 00:00:00,Customer Service,,,"Customer recieved trainer and throught he was missing rollers. No instructions were sent with the trainer and he did not know what was supposed to be included or how to use it. Can we please get a instruction decal, or part number I can bill instructions out?"
+24-074,2024-04-16 00:00:00,Customer Service,Chill-Out Chair,,"Broken locking castors on arrival, replacement order submitted"
+24-075,2024-04-17 00:00:00,Customer Service,,,AS2000 shipped to funder 2 instead of funder 1. Address are correct in CRM however shipping docs have it shipped to funder 2. We are trying to re route so it does not deliver to Make-A-Wish's head office. 
+24-076,2024-04-19 00:00:00,Customer Service,,,Leg brace video on our site is 11 years old and shows old part. Trying to show an example of how our leg braces looks and function however need current product to show.  https://www.youtube.com/watch?v=kBv83e-dKR8
+24-077,2024-04-19 00:00:00,Customer Service,ASR2011,Bike Accessories,"Ratcheting extended straps failed on both sides, images attached"
+24-078,2024-04-22 00:00:00,Production,DCP16,Multiple,"DCP was brought back to assembly with many things to fix, a crooked T-Bar was not fixed so it was brought back again. after 4th time of it being brought back to shipping it still was not corrected. i had to fix the Tbar myself."
+24-079,2024-04-22 00:00:00,Customer Service,,,"Incorrect tracking number on CRM invoice - tracking number on hand written order was correct, incorrect in CRM. "
+24-080,2024-04-22 00:00:00,Customer Service,,,"Parts order for four extended ratchet straps, we sent a complete pair XL ratchet footplates. "
+24-081,2024-04-23 00:00:00,Customer Service,,,"James Sold Demo Chair, Demo File exists however chair is missing RL221M149"
+24-082,2024-04-24 00:00:00,Customer Service,ASR,Bike Accessories,"Snapped footplates - was just replaced March 14th. I spoke with worker at the school, the girl riding the trike was no more than 100lb and less than average strength. The worker said he throught it was due to the footplates hitting the ground and cauing the rear of the bike to jump while pushing it, can only take so many of those until they crack. He has also mentioend how the girl was not only pushing down to pedal, but was also pulling up with her foot which was a bit unsusal. "
+24-083,2024-04-25 00:00:00,Customer Service,ASR,Bike Drive Train,Motion mississauga - loose and broken spokes po 585895
+24-084,2024-04-26 00:00:00,Customer Service,,COC Accessories,"Top quick release on new tray would not tighten, likely stripped quick release"
+24-085,2024-04-26 00:00:00,Customer Service,,,Bike tipped over while riding on an incline. I will be visiting the school to find more information. 
+24-086,2024-04-30 00:00:00,Customer Service,AS,Bike Seating,Failed weld / material @ top weld of seatframe. Was replaced Jan 2024 under warranty for the exact same issue. 
+24-087,2024-04-30 00:00:00,Customer Service,ASR,Bike Accessories,Incorrect hub sent on parts order. Should have recieved 5 speed rather however recieved 3 speed. 
+24-088,2024-04-30 00:00:00,Customer Service,Chill-Out Chair,COC Cover,Busted zipper on COC
+24-089,2024-05-01 00:00:00,Customer Service,,,"Incorrect SN format for O24-21402 on invoice, not able to search for trike by SN. Do we know the correct SN and can it be changed in CRM?"
+24-090,2024-05-02 00:00:00,Customer Service,AS,Bike Accessories,"AS2000 demo - ""footplates knock against the front tire when making a slight turn """
+24-091,2024-05-02 00:00:00,Customer Service,,,"Cat 3's still being filed under 2024 (minor) & can we get a fillable field for a SN?  “If you would like to reference the quote, please reference it through the link from the first e-mail in this chain (I think some of the file paths got crossed, and the quote in the 2024 folder is empty, and the filled-out quote has ended up in the 2022 folder)”"
+24-092,2024-05-02 00:00:00,Customer Service,,,Footplate mounting locations are different for pedals than foot supports causing increased costs for end users. Is it possible for the foot platforms to use the same hole locations as the aluminum pedals?
+24-093,2024-05-02 00:00:00,Customer Service,ET,Multiple,"ET2611 demo arrived with a damaged rear chain ring, DNF was not shiftin into N, needed cable adjustment, battery seal not installed correectly and would not seal from moisture as is. This is a new demo for a new dealer of Evans, poor first impressions of our product. "
+24-094,2024-05-02 00:00:00,Customer Service,,,Short shipped wood screws on parts order
+24-095,2024-05-03 00:00:00,Customer Service,ASR,,Kevin w/ Velofix reported to a school that one of our trikes was unsafe to ride due to the rear brakes being too small / not making full pad contact to the rotor. He claims the bracket was not installed correctly causing the pad to not sit correct on the rotor. 
+24-096,2024-05-09 00:00:00,Customer Service,AS,,"RS nut at bottom gone missing, likely loosened and fell off. "
+24-097,2024-05-10 00:00:00,Customer Service,AS,,Newly installed i2i has pulled out of backrest. This is the second issue with this i2i install. 
+24-098,2024-05-10 00:00:00,Customer Service,AS,,"RS tube off center on new trike, also the rear steer tube comes up and inbetween the tbar grips. "
+24-099,2024-05-10 00:00:00,Customer Service,DCP,Bike Frame,Mini - Broken frame
+24-100,2024-05-13 00:00:00,Engineering,EHDU,Bike Brakes,EHDUs coming through with incorrect configurations: Bar end pedals allowing brake calipers
+24-101,2024-05-13 00:00:00,Engineering,EHDU,Bike Brakes,"EHDUs coming through with incorrect configurations: regular seatbase when it should have been a bench seat, regular low back with a chest harness when it should have been a high back with cutaways "
+24-102,2024-05-13 00:00:00,Engineering,EHDU,Bike Brakes,"EHDUs coming through with incorrect configurations: Regular seatbase when it should have been a bench seat, bar end handlebars when it should have been t-handles to accomodate for the brake caliper"
+24-103,2024-05-13 00:00:00,Engineering,EHDU,Bike Brakes,EHDUs coming through with incorrect configurations: Bar end handlebars when it should have been T-handles to accomodate for the brake caliper
+24-104,2024-05-13 00:00:00,Engineering,EHDU,Bike Brakes,EHDUs coming through with incorrect configurations: Bar end handlebars when it should have been T-handles to accomodate for the brake caliper
+24-105,2024-05-14 00:00:00,Customer Service,ASR2011,Bike Accessories,"Order requested lg footplates, mediums were too small for her heel. We removed her old mediums and installed new mediums instead of the large on order. She was not able to properly use her trike for the CP bike race, this was the main reason it came to us for repair. I have opened a new RO to resolve. "
+24-106,2024-05-14 00:00:00,Customer Service,ET,,ET2611 lasted 10 feet before the chain broke. Customer also tried to adjust rear handlebars but the nut would just spin and spin. 
+24-107,2024-05-14 00:00:00,Customer Service,AS,,"Order shipped with incorrect chain guard and no spoke covers. GP change was made 04/19, bike shipped 05/10. GP changes were done correctly with emails sent. No QC in the file. "
+24-108,2024-05-15 00:00:00,Production,,,"Parts order asks for 2112312 Kit (wheel kit HD bolt on 20"") which comes with 2 solid bolt on tires and one alluminum front rim. The parts order did not come with any specifications on what tire should be put on the rim so i questioned it. Turns out the customer requested 3 solid tires. If i was to send out this parts order as it was ordered they would be receiving a front wheel with no tire or tube. "
+24-109,2024-05-22 00:00:00,Production,ASR,Bike Steering,John advised ~3 rear steer add-on tubes for ASRs have mis-aligned rear steer tubes - handle doesn't fit through bottom set of bearings
+24-110,2024-05-22 00:00:00,Customer Service,,,Short shipped quick releases 
+24-111,2024-05-23 00:00:00,Customer Service,,,Short shipped ball joint nuts on tie rod order
+24-112,2024-05-27 00:00:00,Customer Service,ASR,Bike Drive Train,"On/off seperated, was just installed 03/15/24 - Trike is located on First Nation and may need airlift"
+24-113,2024-06-04 00:00:00,Customer Service,Chill-Out Chair,COC Foam,T.E.C. foam issue on RL223X042 - it has seperated
+24-114,2024-06-04 00:00:00,Customer Service,,,Electric assist on tandem not strong enough to get up hill / inclined drive way
+24-115,2024-06-05 00:00:00,Customer Service,AS,Bike Steering,Rear steer interferes with RS handle and hitting tbar grips. QC was performed however the checklist does not include rear steer functionality. 
+24-116,2024-06-06 00:00:00,Customer Service,,,Decal on rear steer tube twisted and peeling on delivery. 
+24-117,2024-06-07 00:00:00,Customer Service,,,"Bike recieved with one lateral missing, and the other zip tied to the bike frame. Sent replacement. "
+24-118,2024-06-07 00:00:00,Production,ET,Bike Frame,Bearing Plate bent on tandem after paint - handling damage
+24-119,2024-06-07 00:00:00,Customer Service,ASR,Bike Drive Train,Spinning rear sprocket gouged rear axle
+24-120,2024-06-07 00:00:00,Customer Service,AS,Bike Drive Train,Bottom bracket plate cracked - ordered replacement. 
+24-121,2024-06-10 00:00:00,Customer Service,,,No instructions sent with stationary trainer
+24-122,2024-06-10 00:00:00,Customer Service,ASR,Bike Accessories,"XL footplates on ASR2011 heel hitting ground while riding, Larry not able to deliver. New footplate mounting location too far forward on aluminum pedal. Repl order submitted"
+24-123,2024-06-11 00:00:00,Customer Service,ASR,Bike Accessories,"Cracked footplate on ASR2011 - had footplates mounted in new location farther forward on pedal, replaced with old positioning. The rider had both heel straps removed, only had toe straps installed w/ leg braces and may have led to failure. Footplates appeared to be old thicker style. "
+24-124,2024-06-11 00:00:00,Customer Service,DCP,Bike Drive Train,Chain loose on new DCP demo
+24-125,2024-06-13 00:00:00,Customer Service,,,Parts order shipped to hospital instead of repair shop - part went missing - found but delayed repair on demo. 
+24-126,2024-06-17 00:00:00,Customer Service,,,"Parts order short shipped four ratchet strap pads, and rear pulley string frame clamp. "
+24-127,2024-06-17 00:00:00,Customer Service,DCP,Bike Seating,DCP HB seatframe fail
+24-128,2024-06-17 00:00:00,Customer Service,DCP,Bike Accessories,Trike arrived with missing mount for sunshade canopy - replacement parts order to follow. 
+24-129,2024-06-17 00:00:00,Customer Service,,,"DCP12 - trike would not move, found brake mounting plate contacting front tire due to fork brackets neeing to be repositioned. they were still very firm on the fork but over time must have moved. I have images on my phone if needed. "
+24-130,2024-06-18 00:00:00,Customer Service,DCP,,LH wheel bent on delivery - parts order and need to find shop. 
+24-131,2024-06-18 00:00:00,Customer Service,,,Fork bent on delivery - parts order and need to find shop. 
+24-132,2024-06-18 00:00:00,Customer Service,ASR,Bike Accessories,ABF refused to pick up electric assist trike due to proforma & shipping docs etc not correct for lithium ion battery. Trike coming back to FCI for repair
+24-133,2024-06-19 00:00:00,Customer Service,ET,Bike Drive Train,Front wheel and possible fork damaged on delivery - refused shippment and likely returning to FCI
+24-134,2024-06-19 00:00:00,Customer Service,ET,Bike Drive Train,Incorrect bottom bracket ordered / picked 
+24-135,2024-06-19 00:00:00,Customer Service,ET,Bike Steering,ET2611 sold demo arrived with rear steer pulley spinning on shaft - need to transport to bike shop
+24-136,2024-06-21 00:00:00,Customer Service,AS,Bike Drive Train,Slipping sprocket & gouged axle  2412542 5012011   po357192
+24-137,2024-06-21 00:00:00,Customer Service,AS,Bike Drive Train,Failed bottom bracket clamshell
+24-138,2024-06-21 00:00:00,Customer Service,DCP,Bike Frame,DCP12 - snapped spud
+24-139,2024-06-24 00:00:00,Customer Service,ASR,,"all three tubes going flat on ASR2011. I have seen this on a few other trikes, the tires being used are too small for these rims and it causes the inner tube to shift to the side which damages the valve. I am not sure what the resolution is, new wheels or tires. "
+24-140,2024-06-24 00:00:00,Customer Service,,Bike Accessories,"Tablet holders not adequate. Does not work with all size tablets, fits loose, hinge cracks very easy, does not work with tablet in vertical orientation. "
+24-141,2024-06-24 00:00:00,Customer Service,,,"HD sprocket will not fit over axle. Tech with Motion Hamilton could get the first half slid over the axle but said that it would not fully. Tried using some force to get it on, but it got stuck half way and needed hammered off. Oral will reinstall the original sprocket and hope it works for the rider. (this is the second HD sprocket this has happened with, can they be tested before shipping?)"
+24-142,2024-06-26 00:00:00,Customer Service,,Bike Accessories,Footplates cracking around tuck loop tab  2012044
+24-143,2024-06-26 00:00:00,Customer Service,DCP,Bike Frame,Snapped mini frame
+24-144,2024-06-26 00:00:00,Customer Service,ASR,Bike Seating,"Incorrect backrest installed on trike, got 18"" instead of 22"" - Motion Mississauga order"
+24-145,2024-07-02 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,Chair transport cover short shipped - sent replacement. 
+24-146,2024-07-02 00:00:00,Customer Service,DCP,,"Trike arrived with damaged rhr wheel, broken spokes. "
+24-147,2024-07-02 00:00:00,Customer Service,DCP,Bike Seating,"Trike arrived with a damaged seat, sunshade canopy and backrest ext"
+24-148,2024-06-02 00:00:00,Customer Service,ASR,Bike Seating,Failed ASR HD seatframe - was replaced in January due to other warranty repairs on trike. 
+24-149,2024-06-02 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,"Both 5"" locking casters failed - one never locked and the other only locked one time. "
+24-150,2024-06-02 00:00:00,Customer Service,Chill-Out Chair,COC Foam,"Custom ottoman too short to be used with chair. Appears that 5"" caster wheels were not taken into account when designing the ottoman height. - resolved with ottoman support kit. "
+24-151,2024-07-04 00:00:00,Customer Service,,,"Bikes received with out chest harness, parts where on the order, no serial# photo uploaded to confirm."
+24-152,2024-07-04 00:00:00,Customer Service,,,"Bike was shipped early, request was sent to delay production"
+24-153,2024-07-04 00:00:00,Customer Service,,,"Custom headrest order was submitted on 05/14 with 06/07 ESD. Customer asked for an update on the order on the 21st as we were a few weeks over due. I was told that the item will ship Monday 24th and I provided the customer with the new ESD. Part did not actually ship until July 3rd, almost a month past ESD. "
+24-154,2024-07-04 00:00:00,Customer Service,AS,Bike Drive Train,"On/off on Tony Campuzano's trike wobbling after a short period of time - customer txted Mike a video too large to upload. Has yet to fail, waiting for Dirk to return from holidays to determine best way to resolve.No image in the file folder. "
+24-155,2024-07-05 00:00:00,Customer Service,,,"Almost miss with Flyers trike. We had an approved EOR, correct shipping dates and must ship by dates in CRM on the order. One error was writing a 'ship to' but not 'arrive by' on the outside of the file folder. EOR did not take July 1st and July 4th into consideration when approving the EOR. This trike was supposed to be presentated by the Phila Flyers, Larry had to courier the trike several states to get it to the destination on time."
+24-156,2024-07-05 00:00:00,Customer Service,ET,Bike Accessories,"ET2611 w/ electric assist not functioning. 3 throttle lights illuminated and stay lit when throttle is pressed, but front motor does not turn. Checked plug for throttle, brake lever, and made sure loom was not interfering with brake lever. I am having to courier this tandem either back to FCI or Strauss to diagnose and repair. During QC, was found the trike was missing loom and was given back to the tech to install. Bike shipped back to FCI for repair."
+24-157,2024-07-05 00:00:00,Customer Service,,,"parts order past ESD, checked with Troianne and was not recieved / printed in production, however order is on the parts production board. Rock next quarter to work and develop way to ensure parts orders are being recieved. "
+24-158,2024-07-08 00:00:00,Customer Service,EHDU,Bike Brakes,EHDU20 has a very long brake cable interfeering with trike operation - smacking kid in the face as he rides. Missing two zip ties mounted to the chrome bar below the crank. Missing in SN photo too. 
+24-159,2024-07-08 00:00:00,Production,AS,Bike Frame,"at least 3x AS2600 frames w/ front frame support stay welded in AS2000 position, interefering with bottom bracket adjustment range"
+24-160,2024-07-10 00:00:00,Customer Service,ASR,Bike Frame,"Motion Mississauga - We received two ASR2011s (HD's) that unfortunately do not account for any growth for the kiddos. The quote/order forms specified the kiddos have a 34” and 37” inseams. The trikes at the largest only go to 34”. All of the information we have been provided, on evals and on config all state up to 38"" inseam range. "
+24-161,2024-07-11 00:00:00,Customer Service,,,"Account attn: to on accounts being changed. In CRM is correct, on the pick ticket extra information is being added causing a lost shipment. "
+24-162,2024-07-12 00:00:00,Customer Service,ASR,,"Motion Mississauga - ASR2011HD has a failed brake cable, more information to follow. "
+24-163,2024-07-08 00:00:00,Customer Service,EHDU,Bike Brakes,EHDU20 has a very long brake cable interfeering with trike operation - waiting for SN - additional info from 24-158
+24-164,2024-07-16 00:00:00,Customer Service,,,ET2611 tensioner short shipped on O24-22672-T1D4 - this trike has had multipul parts related issues and has delayed repair by about a monh. 
+24-165,2024-07-16 00:00:00,Customer Service,,,No instructions sent with axle.
+24-166,2024-07-17 00:00:00,Customer Service,,Bike Accessories,"Bike tray mounts do not line up with handlebars, likely drilled and installed in the wrong spot. "
+24-167,2024-07-17 00:00:00,Customer Service,,Bike Seating,"COC shipped with no center hole for pelvic belt which was also on the order. Chair cover was shipped back to FCI to with a manf note ""Ottoman cover missing middle pelvic strap hole, returned to be repaired"". Recieved an email and image showing the 'repaired' cover is still missing the pelvic belt hole. Upholstery time sheet had no QC or checks. This chair shipped on 05/06 and still not able to be used by the owner due to repeated mistakes."
+24-168,2024-07-18 00:00:00,Customer Service,DCP,,DCP16 arrived with freight damaged. 
+24-169,2024-07-22 00:00:00,Customer Service,,,"Footplates trimmed too long, was 11.75 instead of 10.75 - part being returned so we can confirm if needed."
+24-170,2024-07-22 00:00:00,Customer Service,,,Parts order shipped to incorrect address. UPS label has customer's old address as it looks like it was never updated.
+24-171,2024-07-23 00:00:00,Customer Service,,,"SN photo faulty, I really needed to see the accessories in this photo as the customer believes she is missing something. "
+24-172,2024-07-23 00:00:00,Customer Service,,,AS2600 backrest ext damaged in transit. Sent repl order.  11582218
+24-173,2024-07-24 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,"Rocker base sent with new chair order unassembeled, and when trying to assemble noticed the hole for the handle is off center and the handle is not able to be secured into place. "
+24-174,2024-07-24 00:00:00,Customer Service,DCP,Bike Seating,Demo move arrived damaged - replacement seatback order submitted. 
+24-175,2024-07-25 00:00:00,Production,ASR2011-HD,Bike Steering,Rear steer cable crimp slipped
+24-176,2024-07-26 00:00:00,Customer Service,,,Lateral tracks and hardware not shipped with lateral parts order. 
+24-177,2024-07-29 00:00:00,Customer Service,ASR,Bike Accessories,"Conclusion to 24-156 - trike shipped back to FCI for electric assist diag, controller was programmed to 48v. This also means the electric assist was not likely tested before shipping as indicated on the QC. "
+24-178,2024-07-30 00:00:00,Customer Service,ET,Bike Drive Train,"Chain coming off. asked for photos as there is none in the SN file, hoping the stationary tensioner will resolve. "
+24-179,2024-07-30 00:00:00,Customer Service,,Bike Accessories,"Customer not able to connect to blue tooth, overall tried 4 different phones including my own. When trying to connect, GM will show up in the list and after selecting the icon will stay blue for about 5 seconds but no values populate in the app. Switched to known good LingBo dongle and connected first attemp with everything functioning. "
+24-180,2024-07-31 00:00:00,Customer Service,AS,Bike Accessories,Rear steer tube decal peeling on newly delivered trike. Have we tried adhesion promoter?
+24-181,2024-07-31 00:00:00,Customer Service,AS,Bike Accessories,Footplates snapped on newly delivered trike
+24-182,2024-08-01 00:00:00,Customer Service,Chill-Out Chair,,No SN photo 
+24-183,2024-08-01 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,"According to Make-A-Wish IA, Chair was shipped with tray unassembeled and no instructions. Not sure how it was shipped as no SN photo making it more difficult to assist."
+24-184,2024-08-01 00:00:00,Customer Service,Parts,,"UPS unable to clear parts through customs due to missing commercial invoice, was provided a tracking number from ups. Searching, the tracking number is not listed on any CRM order. I searched through the paper copies which have been returned to me looking for that tracking number but was not able to find. If possible, can the CS team be provided tracking numbers at the time freight is picked up rather than invoiced?"
+24-185,2024-08-06 00:00:00,Customer Service,ASR,,"Related to 24-156 & 24-177 - The trike was shipped back to FCI for a warranty repair, the customer also requested the throttle to be repositioned. I changed the order in GP, emailed production, and added notes to CRM. I will likely now have to have the trike couriered to a bike shop to resolve. "
+24-186,2024-08-08 00:00:00,Customer Service,ASR,Bike Accessories,"Motion Mississauga issue - Belt detatched from backrest. According to John, the plastic mounting plate snapped in half and screw holes were very close to the edge. "
+24-187,2024-08-08 00:00:00,Customer Service,ASR,Bike Steering,Motion Mississauga issue - RS cable snapped - unresolved.
+24-188,2024-08-13 00:00:00,Customer Service,Parts,,Parts order shipped to wrong location (looks to be a UPS issue) 
+24-189,2024-08-13 00:00:00,Customer Service,Parts,,"Parts order missing chain and sprocket, only wheel assembly was shipped. No check marks or highlights on paperwork to indicate what was picked / shipped. Replacement parts order air freight rush. "
+24-190,2024-08-14 00:00:00,Customer Service,,," As per sales, we had to change the shipping address on 4 parts orders now being shipped to the rep. Orders were still in a submitted status with an ESD of 08/19. Elaine informed me that those orders had already shipped. I will now have to change the 4 orders back again taking a lot of time. Great that we are ahead shipping, but the flow of information needs to be improved. "
+24-191,2024-08-14 00:00:00,Customer Service,AS2000,,Bottom bracket cracked
+24-192,2024-08-14 00:00:00,Customer Service,Parts,,"Parts order shipped to incorrect address. Info is all correct in CRM and pick ticket but incorrect info submitted to UPS. This exact same thing happened with this same customer on incident 24-020, customer wanted to speak with the shipping department as he was so frustrated, obviously I did not pass along the call. "
+24-193,2024-08-15 00:00:00,Customer Service,Parts,,"Related to above, customer had someone down the street bring over the package however it was missing the sprocket and the package only contained the set screws. Pick ticket etc had no check marks or anything indicating what was picked and sent, either a miss pick or packaging issue. "
+24-194,2024-08-19 00:00:00,Production,AS,,AS2000 rear steer mounting plate on frame welded not aligned with frame
+24-195,2024-08-20 00:00:00,Production,,,"DCP 5"" b.b Position need Longer ChainGuard Plus 2""in standard DCP Chainguard."
+24-196,2024-08-20 00:00:00,Customer Service,,,Need a method to identify odd bottom brackets. For a short period of time we used a different BB shell and requires a special modified BB to fit. How do I know when this applies?
+24-197,2024-08-21 00:00:00,Customer Service,,,SN photo missing
+24-198,2024-08-21 00:00:00,Customer Service,AS,2180001,Seat frame - top weld failure - adult HB. 
+24-199,2024-08-22 00:00:00,Customer Service,,,SN photo missing
+24-200,2024-08-22 00:00:00,Customer Service,,,SN photo missing
+24-201,2024-08-23 00:00:00,Customer Service,Parts,,Order past ESD - spoke with Elaine regarding this order on Aug 12th. Aug 23rd I asked when these parts were going to ship as they are past ESD. Production is now advising they had not recieved the order causing the delay. The order is on the parts production board. 
+24-202,2024-08-23 00:00:00,Customer Service,AS,2240585,Spacers and gloves not with delivered trike. SN photo too fuzzy to see spacers.
+24-203,2024-08-26 00:00:00,assembly,ASR16NRW,,"Order 23240 frame missing centering spring tab, had to fab bracket as frame is painted"
+24-204,2024-08-27 00:00:00,Customer Service,Chill-Out Chair,,COC arrived damaged
+24-205,2024-08-27 00:00:00,Customer Service,Defier,,Electric assist app will not connect via bluetooth - unresolved. 
+24-206,2024-08-27 00:00:00,Customer Service,Parts,,"Order 23426 Chest harness was selected, we sent chest strap  "
+24-207,2024-08-27 00:00:00,Customer Service,,,"Bike recieved with dog horn, customer requested unicorn. Quote and order were not changed however the invoice had the horn switched. Unicorns are out of stock, customer should have been asked which replacement horn they would prefer. "
+24-208,2024-08-28 00:00:00,Assembly,,, 2 DCP frames from ACS in candy blue have a very poor finish
+24-209,2024-08-28 00:00:00,Production,,,Parts order for 2 Nylock Nuts that ask for instructions. No info on what these nuts are being used for therefore cannot send instructions for 2 nuts. Not the first parts order to request instructions for an item that doesnt need or we have no information on use of item.
+24-210,2024-08-29 00:00:00,Customer Service,Parts,Bike Accessories,"While installing leg braces, RH leg brace was provided to me with all of the parts assembeled, installed on the trike well. The LH leg brace was provided to me with the stainless steel part not fitted to the leg brace or pedal plate. When I went to assemble the LH side, the stainless steel portion would not fit into the pedal plate, there was some welding spatter on the inside preventing the two pieces from fitting together. Also the upper calf portion was extremely tight on the stainless piece and would not adjust up and down. I was able to free it up enough by forcing it on and off multipul times. "
+24-211,2024-08-30 00:00:00,Customer Service,,Bike Steering,"Snapped RS cables on another Motion ASR, different trike than mentioned above however both are at the same school & both invoiced in June. "
+24-212,2024-08-30 00:00:00,Customer Service,,,"No Sn Photo, needed to verift correct push bar on trike. "
+24-213,2024-08-30 00:00:00,Customer Service,,,No Sn Photo
+24-214,2024-08-30 00:00:00,Customer Service,ET,Bike Drive Train,ET2611 8 speed hub sprocket bolts sheered off on first ride. Mom says was very difficult to pedal and then sheered. 
+24-215,2024-08-30 00:00:00,Customer Service,ET,Bike Steering,"ET2611 (same as above) rear steer cables have a ton of slack and hanging down low, trike has only gone for one very short ride before having an issue"
+24-216,2024-08-30 00:00:00,Customer Service,EHDO,Bike Accessories,"Electric assist app stopped connecting. App is up to the most recent version, showing GM and the dongle is blinking green but the bluetooth won't connect and logo stays red. Likely the fix is a LingBo dongle, or at least can be used as a diagnostic step. Submitted order. "
+24-217,2024-08-30 00:00:00,Customer Service,Parts,,No instructions sent or found for t-bar install on ASR. Order did not specifucally ask for instructions. I created a quick set and sent them over. 
+24-218,2024-08-30 00:00:00,Customer Service,AS,,"Bike cover not received with bike, no photo in SN log to confirm  - sent replacement"
+24-219,2024-09-05 00:00:00,Customer Service,AS,Bike Accessories,"Bike cover not recieved with bike, crate in good shape but no extras. - submitted replacement order. "
+24-220,2024-09-05 00:00:00,Customer Service,AS,Bike Seating,"Backrest extension wrapped to backrest for shipping. Customer says that it was hot outside and the headrest was wrapped extremely tight and the two parts were fused together, when pulled apart some of the material was damaged. Repl order submitted. "
+24-221,2024-09-05 00:00:00,Customer Service,Chill-Out Chair,,Demo received @ customers w/o woodbase attached. Demo shipped from Edmonton to US and no images taken prior - unresolved. 
+24-222,2024-09-06 00:00:00,Customer Service,,,No SN photo
+24-223,2024-09-06 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,Rock'er base sliding on hardwood floors and leaving marks. Customer wants to return chair order due to this and a fitment issue. 
+24-224,2024-09-09 00:00:00,Production,Chill-Out Chair,COC Accessories,"The chair went out with no pelvic belt installed, a pelvic belt was on order, and pick-ticket"
+24-225,2024-09-10 00:00:00,Customer Service,DCP,Bike Drive Train,Chain came off trike w/ enclosed. Local repair order submitted. 
+24-226,2024-09-11 00:00:00,Customer Service,,,"Parts order entered using special_bike for inventoried item, 5012089."
+24-227,2024-09-13 00:00:00,,DCP,Bike Frame," The rear steering rod freely swings without steering the front wheel, Rear Steer handle is dislocated inside the tube "
+24-228,2024-09-16 00:00:00,Engineering,Chill-Out Chair,COC Cover,"Wrinkly covers on COCs, cosider tightening up pattern for vinyl covers"
+24-229,2024-09-16 00:00:00,Customer Service,,,"COC shipped instead of DCP. PO 054-6250619 is for a DCPmini, received a Roll'er intended for Airway mobility. Correct PO for DCP written on outside of box, however COC inside box."
+24-230,2024-09-17 00:00:00,Customer Service,AS,Bike Drive Train,Pedal or crank arm loose on newly delivered trike - local.
+24-231,2024-09-17 00:00:00,Customer Service,ASR,,Incorrect weights listed on decals for ASRHD
+24-232,2024-09-17 00:00:00,Customer Service,ET,Bike Accessories,"ET2611 electric assist power cable coming unplugged during ride, possibly hitting riders heel (local & resolved ) "
+24-233,2024-09-18 00:00:00,Customer Service,DCP,,"DCP12 had two custom parts - 5"" higher rear steer & a custom seat. The engineering drawing sent to the customer for approval shows the tbar, however in actuality the tbar would not work with these custom parts. Customer wants solution, unresolved. ""We were under the impression that the t-bar would also be raised, otherwise we would have said to not raise the handle.  """
+24-234,2024-09-18 00:00:00,Customer Service,,,"CAT3's not in correct folders, links not working to folders. For example Q24-064 folder is empty, checked 2024 & 2023. "
+24-235,2024-09-19 00:00:00,Customer Service,ASR,Bike Drive Train,"ASR2011 (Motion Mississauga trike) - had broken spokes in May, wheel kit replaced under warranty. Reported today that again the rider is breaking spokes on the wheels and needing replacement.  Rider is 6' 165lb and an agressive rider who rocks side to side as he rides. - unresolved"
+24-236,2024-09-19 00:00:00,Customer Service,ET,Bike Accessories,Charger not recieved with ET2611 - small charger box in SN photo. repl order submitted.
+24-237,2024-09-19 00:00:00,Customer Service,ASR,Bike Drive Train,ASR2011 snapped axle in middle of on/off. 
+24-238,2024-09-20 00:00:00,Customer Service,Parts,,"O24-23478 order past ESD and updated ESD on production board. Advised that the order has shipped however is still submitted in CRM, live in GP and the physical order is still with production. "
+24-239,2024-09-23 00:00:00,Customer Service,ET,Bike Accessories,ET2611 battery not holding charge - undiagnosed & unresolved. Sold Dec 2021
+24-240,2024-09-23 00:00:00,Customer Service,DCP,,Demo arrived with damaged wheel - parts order submitted - unresolved
+24-241,2024-09-23 00:00:00,Customer Service,AS,Bike Accessories,"Bike cover short shipped on order, previously logged. The replacement cover arrived but is too small for the trike as it is an extended frame. Repl order submitted. "
+24-242,2024-09-23 00:00:00,Customer Service,DCP,Bike Frame,Snapped Spud
+24-243,2024-09-23 00:00:00,Customer Service,ASR,Bike Accessories,"Peeling decals, both frame and chain guard on delivery. "
+24-244,2024-09-23 00:00:00,Customer Service,ASR,,Trikes pallet straps did not hold and bike shifted during trapsport - minor damage. 
+24-245,2024-09-23 00:00:00,Customer Service,,,No SN photo
+24-246,2024-09-24 00:00:00,Customer Service,Parts,,"No tools shipped with parts order, asked for in the manf notes. Was changed in GP and emailed production of the changes, pick ticket was never updated. "
+24-247,2024-09-25 00:00:00,Customer Service,Chill-Out Chair,COC Cover,Broken zipper on demo roll'er
+24-248,2024-09-25 00:00:00,Customer Service,Parts,,"Locally repaired trike still having issues after repair and tune and was brought back to FCI by customer. The RS handle was difficult to move. I found the cables and guides were corroded and causing friction, lubercated & resolved. The chain guard is still rubbing however may have been physical damage. They were also not able to pedal or push the trike easly, there is a ton of resistance on the drive wheel which needs to be resolved, likely needing a new chain or bearings. When I repair trikes, I always perform a test ride afterwords to ensure there are no issues, and very often I find further issues which need to be fixed. I believe had this been test ridden, we would have fixed right the first time. "
+24-249,2024-09-25 00:00:00,Customer Service,ET,,"Newly delivered ET2611 has a bent front wheel, will not shift into any of the off gears & the chain is skipping. unresolved"
+24-250,2024-09-26 00:00:00,Customer Service,Parts,,The customer did not receive the 3 bolt plate with the pulley kit
+24-251,2024-10-02 00:00:00,Customer Service,Parts,,"Motion Mississauga - Parts order for warranty repair rear steer cables, we shipped brake cables. "
+24-252,2024-10-02 00:00:00,Customer Service,Parts,,"Bluetooth dongle inop, not sure if it was tested prior to shipping"
+24-253,2024-10-04 00:00:00,Customer Service,AS,Bike Drive Train,"Failed on/off. Appears that the plunger threads are good, female threads stripped. "
+24-254,2024-10-06 00:00:00,Customer Service,DCP,Bike Accessories,"Trike order had rear pulley, missed during production and shipped with only front pulley, shows only front pulley in SN photo. Sent customer parts kit and Facetimed to help install. The clamp around the tbar was quite tite and caused grooving/ scratches around the chrome during removal, customer may request a replacement but will see if his wife noticed. "
+24-255,2024-10-09 00:00:00,Customer Service,,,"Bluetooth adapter shipped to customer and asked 'test to ensure will connect to app before shipping' however when the customer recieved the adapter it would not connect. The adapter we shipped was GM, not the correct adapter as the GM ones will not connect."
+24-256,2024-10-09 00:00:00,Customer Service,,,"No instructions sent with O24-23642 and now having issues with install. Dane @ Creative Mob struggled with the pedelec sensor install, we missed shipping a spacer to work with the new bottom bracket and rushed through production. The first pedelic sensor was not functioning and likely a dud, shipped replacement. "
+24-257,2024-10-09 00:00:00,Customer Service,,,"Front wheel short shipped on O24-23933. I had the repair scheduled with a bike shop, will need to arrange another repair. No pick tick notes, checks, highlights, or any indication this order was checked. "
+24-258,2024-10-09 00:00:00,Customer Service,,,"Colin reports that pedelic sensors have a 20% chance of being dead or faulty, we should test before shipping imo. "
+04-259,2024-10-15 00:00:00,Customer Service,DCP,,"Bike went out with no chest harness, Harness was on the order "
+24-260,2024-10-16 00:00:00,Customer Service,,,"Trike invoiced with incorrect SN, showing 2204873 which would make it a 2020 trike. I believe the correct SN is 2240873. "
+24-261,2024-10-16 00:00:00,Customer Service,,,"Parts order shipped to Numotion rather than NSM. Checked with Elaine, UPS is in error. "
+24-262,2024-10-16 00:00:00,Customer Service,,,"Parts order for a knobby tire and tube kit X3 - we shipped a single smooth pneumatic, tube and no rim strip,  causing delay in repair. Replacement order submitted. No check marks, highlights or anything listed on the order. No pick ticket. "
+24-263,2024-10-16 00:00:00,Customer Service,ET,Bike Drive Train,ET2611 recieved w/ rear rider bottom bracket spinning out of frame. 
+24-264,2024-10-22 00:00:00,Customer Service,,,Trike w/ trainer was recieved w/ no instructions.
+24-265,2024-10-22 00:00:00,Customer Service,AS,Bike Drive Train,Crank arm fell off of newly delivered trike
+24-266,2024-10-22 00:00:00,Customer Service,DCP,Bike Frame,Snapped Spud on a DCP
+24-267,2024-10-23 00:00:00,Customer Service,AS2000N,,Bike was recieved with no ball  joint 
+24-268,2024-10-23 00:00:00,Customer Service,DCP12,,Bike went out with no rear pulley  SN# photo confirmed no pulley 
+24-269,2024-10-23 00:00:00,Customer Service,ASR,Bike Accessories,Footplates have cracked within a year
+24-270,2024-10-24 00:00:00,Customer Service,EHDO,Bike Steering,"New trike recieved with one of the rear steer cables completely pulled through the frame. LH is connected, RH is missing female ball joint, adjuster and stainess cable keeper. "
+24-271,2024-10-24 00:00:00,Customer Service,ET,,ET2611 - Trike recieved by HME had no literature or usermanual for the electric assist. The PT contacted me to voice her frustrations. 
+24-272,2024-10-24 00:00:00,Customer Service,ET,Bike Accessories,"Newly delivered ET2611 was fine on the first ride. Second or so ride and the electric assist was very skippy/jerky on accelleration. Third ride onwards, the green throttle light was flickering, would cut out and then come back. Customer would also need to very gently press the throttle little by little, if the throttle was fully pressed, nothing would happen (this one issue was not recreatable). Mike has a video on his phone if needed. "
+24-273,2024-10-24 00:00:00,Customer Service,ET,Bike Brakes,"Newly delivered ET2611 w/ electric assist - The black brake lever does not slow or stop the trike. When the lever is fully squeezed, nothing happens."
+24-274,2024-10-24 00:00:00,Customer Service,ASR,Bike Drive Train,Newly delivered ASR2011 - the spring clip holding the outter midhub sprocket popped off. 
+24-275,2024-10-24 00:00:00,Customer Service,,,"Parts order for Believe it - short shipped mounting plates for 50 belts. The pickticket highlighted the belt kits, but none of the individual items in the kit. Unsure what all was sent. After looking into this issue, advised by Troianne that becuase they are belt they no longer use the mounting plates."
+24-278,2024-10-25 00:00:00,Customer Service,,,positioning wedges were received with no foam
+24-279,2024-10-25 00:00:00,Customer Service,ASR,Bike Drive Train,Motion Mississauga - Broken spokes / wheel weld
+24-280,2024-10-25 00:00:00,Customer Service,ASR,Bike Seating,Motion Mississauga - Bent seat frame
+24-281,2024-10-25 00:00:00,Customer Service,AS,Bike Steering,"AS2000 recieved with no ball joint attached to the tie rod, this is the 3rd? occurance this week. "
+24-282,2024-10-29 00:00:00,Customer Service,ASR,,"Inspected trike which was repaired lastweek. Found the handlebar stem still loose (was advised this was fixed) and I also found the BB loose and has a lots of play, rh rear caliper not gripping disc at all. I was asked by the customer about footplates, he asked the repair tech but recieved no reply, nothing written on the sheet I recieved back. Unresolved. Incident was not logged by tech as asked on the order. "
+24-283,2024-10-29 00:00:00,Customer Service,ASR,Bike Seating,Motion Mississauga reports a bent seat frame - similar to the seat frame from the same location as 24-280. I have asked for the riders info & images so we can fix this rather than replace the frame for it to fail again. 
+24-284,2024-10-29 00:00:00,Customer Service,ASR,,"Newly delivered ASR2011 was reported to have many issues. FCI tech repaired and stated 'Replaced LR brake cable. Secured rear discs, loctited all screws on on/off sprocket'   Was the on/off not already threadlocked? No more info provided as to cause of failures. "
+24-285,2024-10-29 00:00:00,Customer Service,ASR,Bike Accessories,"Leg braces - the LH adjusted up and down well however the RH side was extremely stiff, boardline stuck. I doubt that someone could adjust this. Looking at the black tube, it looks rhombus and no longer square. These leg braces were just a trial, I will correct the issue if they choose to keep them. "
+24-286,2024-10-30 00:00:00,Customer Service,ASR,Bike Seating,"Motion Mississauga - advised of a bent toe in DW, bent seat frame. Waiting for images and further info. "
+24-287,2024-10-30 00:00:00,Customer Service,DCP,,"Advised that no SN sticker was on this trike, however is checked off on the QC sheet. After speaking on the phone, still not able to locate the sticker. submitted replacement parts order. "
+24-288,2024-10-31 00:00:00,Customer Service,AS2000,,Seat Frame Failure
+24-289,2024-10-31 00:00:00,Customer Service,,,Parts order short shipped a few parts needed for drag brake install. Tech was unable to complete installation and will need to make another apt to complete. Replacement order submitted. 
+24-290,2024-10-31 00:00:00,Customer Service,DCP,,Failed DCP seat frame
+24-291,2024-11-01 00:00:00,Customer Service,,,"No instructions sent with parts order, was specifically asked for. "
+24-292,2024-11-01 00:00:00,Customer Service,AS,Bike Steering,AS2000 recieved with no ball joint or lock nut attached. 
+24-293,2024-11-01 00:00:00,Customer Service,AS,,AS2600 recieved with torn RS grip
+24-294,2024-11-01 00:00:00,Customer Service,ASR,,ASR2011 recieved damaged. - waiting for images
+24-295,2024-11-05 00:00:00,Engineering,Chill-Out Chair,COC Cover,"From Evan, ottoman with velcro strap not lining up with the ottoman. Potential ottoman height descrepancy? "
+24-296,2024-11-06 00:00:00,Customer Service,,,No SN photo
+,2024-11-06 00:00:00,Engineering,,,Memory foam insert is not holding down to the chair even when using an excess of glue. Rusty reports that the memory foam feels different than usual. 
+,2024-11-07 00:00:00,Production,Multiple,,"Local Repair orders are not including serial number of bike being repaired. schools usually dont know what bike is being repaired or being brought back for repair. We need to know more information on these repair orders. Would help speed repairs up if we know the name of the contact person aswell. 24154,24157,24160,24186"
+,117,Production,ASR,,Went for repair at school and bike was not at the school and school doesnt think they have a bike this color. Grey ASR
+24-300,2024-11-07 00:00:00,Customer Service,,,"Parts order short shipped tools asked for in the manufacture notes, note is on the pick ticket but not highlited. "
+24-301,2024-11-07 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,"Chair recieved without the pushbar, was on the order. The SN photo confirms no pushbar. "
+24-302,2024-11-08 00:00:00,Customer Service,ASR,Bike Steering,Motion Mississauga - failed rear steer cable and/or crimp. 
+,2024-11-12 00:00:00,Production,,,Front crossbar is in wrong position for ASXT Frames
+24-304,2024-11-12 00:00:00,Customer Service,DCP16,Bike Drive Train,Local repair - DCP16 enclosed chainguard hardware too long and contacting chain 
+24-305,2024-11-14 00:00:00,Customer Service,Chill-Out Chair,,Flat spot on newly delivered Roll'er wheel - not the locking type.
+24-306,2024-11-14 00:00:00,Customer Service,,,EHDU arrived upside down w/ bent tbar
+24-307,2024-11-14 00:00:00,Customer Service,,,"Customer recieved an old blue AS2000 rather than her new purple trike. The order and SN image are correct however customer recieved incorrect trike. Still looking into it, unresolved. "
+24-308,2024-11-15 00:00:00,Customer Service,ET,Bike Drive Train,"ET2611 - chain has fallen off again. Customer took it themselves to a shop and has attempted to repair 4 times now. Customer has asked for a new trike, I have requested images - unresovled. "
+24-309,2024-11-15 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,"No instructions sent with roll'er & tray, therapists had to call for help with installation. I facetimed and found two of the aluminum rails on the bottom of the chair were not parelle causing install troubles. The therapists did not have tools immedialty avalible to fix but I sent over instructions. "
+24-310,2024-11-18 00:00:00,Customer Service,AS,,"  Bike arrived with no cover, no SN# photo uploaded"
+24-311,2024-11-20 00:00:00,Customer Service,ET,Bike Drive Train,ET2611 - shifter very hard to change gears and loose / broken part on 8speed hub. Unresolved 
+24-312,2024-11-20 00:00:00,shipping,,,weight capacity decals not being punched
+24-313,2024-11-20 00:00:00,Customer Service,ASR,Bike Drive Train,ASR2011 - Bearing keeper has spun our of eccentric BB. 
+24-314,2024-11-21 00:00:00,Customer Service,AS,Bike Drive Train,"New local bike - reported that the pedals are contacting the frame etc when pedaling, sounds like the BB has shifted."
+24-315,2024-11-21 00:00:00,Customer Service,Chill-Out Chair,COC Cover,Failed seam on newly delivered Roll'er - unresolved
+24-316,2024-11-22 00:00:00,Customer Service,,,"No SN photo, shipped 11/05"
+24-317,2024-11-22 00:00:00,Customer Service,ASR,Bike Steering,Failed RS cable crimps - local repair. 
+24-318,2024-11-22 00:00:00,Customer Service,,,No SN photo
+24-319,2024-11-22 00:00:00,Customer Service,DCP,,Incorrect SN displayed on invoice - Corey to correct SN in CRM. 
+24-320,2024-11-25 00:00:00,Customer Service,,Bike Accessories,"Failed stationary trainer - appears to be older, unknown purchase date. "
+24-321,2024-11-25 00:00:00,Customer Service,,,"Motion Mississauga - Only steering cables recieved on O24-24248, cable connect rods & set screws missing. This parts order was to fix one of the failed trikes, repair unable to be completed until replacement parts arrive. "
+24-322,2024-11-25 00:00:00,Customer Service,,,No SN photo
+24-323,2024-11-26 00:00:00,Customer Service,AS,Bike Drive Train,"Newly delivered AS2000 has a crooked BB and RH footplate occasionally hitting the chain guard. Delivered Oct 29th, @ FCI for repair. "
+24-324,2024-11-26 00:00:00,Customer Service,AS,,"PT and other workers at the school not able to find SN, was told this trike does not have one. I went to Dalhousie school to look at it myself and found a black SN sticker in a different place than ususal. "
+24-325,2024-11-26 00:00:00,Customer Service,AS,Bike Brakes,"RH disc brake on this trike does nothing, other brakes hold however RHR disc brake not braking or slowing the trike. (disregard, due to drag brake)"
+24-326,2024-11-27 00:00:00,Customer Service,EHDO,Bike Accessories,"Failed rear crimp has caused one of the RS cables to slacken, Iain confirmed. Rear steer tube assembly has a bearing which is no longer seated or installed. Images attached. "
+24-327,2024-11-28 00:00:00,Customer Service,DCP,Bike Frame,DCPmini frame has snapped completely in two pieces. 
+24-328,2024-11-29 00:00:00,Customer Service,DCP,Bike Accessories,"Failed lateral track, slider snapped in two. "
+24-329,2024-12-02 00:00:00,Customer Service,,,Motion Mississauga parts orders shipped late and missed repair date set up by repair tech & two schools having to reschedule. 
+24-330,2024-12-03 00:00:00,Customer Service,,,"No SN photo RL224M515, invoiced 11/12. Now in log, added Dec 5th"
+24-331,2024-12-09 00:00:00,Customer Service,DCP,Bike Drive Train,Aluminum pedal wont spin on new trike. Motion tech says it is the actual metal pedal causing the issue. 
+24-332,2024-12-09 00:00:00,Customer Service,,,"No SN photo, invoiced 11/20 and now has issue with pedal. Image added Dec 18th"
+24-333,2024-12-09 00:00:00,Customer Service,,,"No SN photo, invoiced 12/02 & now has freight damage. "
+24-334,2024-12-10 00:00:00,Customer Service,DCP,Bike Frame,Snapped spud on a DCP
+24-335,2024-12-11 00:00:00,Customer Service,,Bike Accessories,Faulty pulley - the plastic wheel is molded off center causing the string to ride against rather than roll along the pulley. 
+24-336,2024-12-12 00:00:00,Production,,Bike Drive Train,"As per Shipping, yesterday and today when inspecting bikes with an On/Off, the silver hub needs to be tightened better to the sprocket. the sprocket is unthreading from the black flange to the silver hub."
+24-337,2024-12-16 00:00:00,Customer Service,Chill-Out Chair,,"Chillout Chair po was for latte, we put in the order for Royal. "
+24-338,2024-12-17 00:00:00,Customer Service,,,"Anti tip arm for dcp mini part# 2415260 is 1 inch too short compared to old part, but styill useable. "
+24-339,2024-12-18 00:00:00,Customer Service,DCP,Bike Frame,Snapped spud
+24-340,2025-01-07 00:00:00,Sales,EHDU,,"Demo was built and received early June. Used by Bart Adaptive Sports for their Summer Adaptive Cycling Program. Stored in a pod and out of the elements. 
+We moved the demo down to GA for a quick check before heading to University of FL for a Duchenne MD Research Study. Hardware is all rusted out on several parts of the bike. Roger noticed the lighter black hardware are the ones that are corroding.New stainless steel 304 allen screws were ordered and installed. We have the same problem for other bike models. "
+24-341,2025-01-09 00:00:00,Sales,,,"Bike may have been shipped with the on/off reciprocator in the free wheel mode (caused confusion). Orca Whale horn requested on original evaluation and was shipped with a shark horn. Per Jaydene: ""If a horn is on back order, we need to ask customer if an alternative horn is preferred on my orders""
+"
+25-001,2025-01-09 00:00:00,Customer Service,,,No SN photo 
+25-002,2025-01-09 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,Chair recieved with no tray in box. Packaging in good condition but likely short shipped. 
+25-003,2025-01-09 00:00:00,Kitting,,,"1 1/2 "" 16ga Piping used for rear steers is coming in bent in random locations, resulting in unusable rear steers. Some can be fixed, others cannot. Possibly an issue with the vendor or within transit."
+25-004,2025-01-09 00:00:00,Customer Service,ET,Bike Accessories,"ET2611 ordered with bike cover, was not recieved with the trike (sold white demo)"
+25-005,2025-01-13 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,Incorrect size rock'er base shipped with chair and too wide for chair to fit onto. Submitted replacement parts order .
+25-006,2025-01-22 00:00:00,Kitting,,,"Several more bent rear streers received in kitting. Refer to previous statement about piping. (1 1/2 "" 16ga Piping used for rear steers is coming in bent in random locations, resulting in unusable rear steers. Some can be fixed, others cannot. Possibly an issue with the vendor or within transit.)"
+25-007,2025-01-22 00:00:00,Customer Service,,,Replacement frame arrive to customer with bent bearing plates and cracking paint - they have requested a replacement. 
+25-008,2025-01-24 00:00:00,Customer Service,,,"Asked to replace ratchet straps as they could not be comfortably used. Found straps to be stiff in place and not adjustable front and back. Attempted to remove strap and hardware stripped, other side did free up. Looks like we are adding thread locker to the ratchet strap hardware which prevents it from being adjusted correctly. I had to replace these under warranty. I will keep the old part until after this meeting if needed to be inspected. "
+25-009,2025-01-30 00:00:00,Customer Service,,Bike Accessories,"Customer ordered trike w turtle horn, we shipped w/ a squirrel. Sales has requested that if a horn is not in stock, that we check with the customer and not ship the trike with random as it is causing issues between them and their customers. "
+25-010,2025-01-31 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,Product Failure -5 point  strapping piece that threads from the back of the chair to the front  has broken apart 
+25-011,2025-01-31 00:00:00,Customer Service,ASR,Bike Drive Train,"Bottom bracket very loose, inspected and found RH bb bearing keeper not threaded into ecc bb and has now stripped. Replaced BB, all okay. "
+25-012,2025-01-31 00:00:00,Customer Service,ASR,Bike Steering,"Rear steer tube assembly already starting to show some corrosion, same trike as above."
+25-013,2025-02-03 00:00:00,Customer Service,ASR,Bike Seating,Seat frame failure 
+25-014,2025-02-04 00:00:00,fab/supplies,,,"no 1 1/8"" and 1"" hole saws. Have had them on the list of requests"
+25-015,2025-02-05 00:00:00,Customer Service,Chill-Out Chair,COC Cover,Chill-out chair cover torn @ handle
+25-016,2025-02-06 00:00:00,Kitting,Ubar,,"Orange 12"" +  6"" Ubars and Frames continue to come back with very light paint opacity. Paint needs to have extra layers for Orange bikes. "
+25-017,2025-02-06 00:00:00,Customer Service,EHDO,Bike Steering,"Older trike was sold however customer recieved and the front wheel will not center, new centering bushing needed. "
+25-018,2025-02-06 00:00:00,Customer Service,ASR,Bike Drive Train,"On/off pin had snapped off of this trike, I was able to replace the pin. While repairing in noticed the on/off was very loose on the axle and further inspection found 6 of 8 set screws very loose, and zero locktite on any of the set screws. Same trike as the above two. I have a video which was too large to upload."
+25-019,2025-02-10 00:00:00,Customer Service,Chill-Out Chair,,"customer not aware medbloc liner was allowing fluids to seep into the foam.  I believe the pelvic belt holes are at the bottom corners of the chair, or the lowest point. If the holes were even an inch above the foam on the sides, this would not be an issue. "
+25-020,2025-02-10 00:00:00,ASSEMBLY,,,"Electric green paint from indutec paint coverge on some frames thin and brittle, paint cracks  at times"
+25-021,2025-02-11 00:00:00,Customer Service,,,"customer ordered 2 pairs of ankle harness, but they said they only received 1 pair  "
+25-022,2025-02-12 00:00:00,Assembly,,,AS2000 tie rods made and sent out for paint and returned on 11-Feb are incorrect. Colin advises the are for an EHDU 20 are will not work on AS2000.
+25-018,2025-02-13 00:00:00,Customer Service,,,"No Sn photo, invoiced 02/03"
+25-019,2025-02-13 00:00:00,Customer Service,,,"Incorrect pelvic buckles sent, looks like they recieved ankle harness buckles. No information was on the order to suggest this was for a chair. "
+,2025-02-13 00:00:00,Assembly,DCP,,Uneven paint on chainstay 
+25-020,2025-02-19 00:00:00,Production,Chill-Out Chair,,Chair Order was cancelled production was not informed chair was made....
+25-021,2025-02-20 00:00:00,Customer Service,,,"Incorrect horn. Ordered w/ dino, shipped with cat. Kiddo hestrically crying in the background and NSM unable to deliver until resolved. "
+25-022,2025-02-20 00:00:00,Inside Sales ,AS,,Paint chipping/ brand new bike 
+25-023,2025-02-20 00:00:00,Customer Service,ASR,Bike Drive Train,BB bearing keeper nut spun out & Ecc BB shifted to the side. 
+,1900-01-20 00:00:00,Inside Sales ,DCP,,"Cracked frame. The bike was donated to therapy centeres in our area (TOTS Veranda), it is 2015 bike / SN2150808 / DCP12 funded by Variety of GA back in Nov 2015. Per Corey It is a 10 year old bike, so although broken frames are always a concern, not sure how high it would rank in terms of creating any action. But from an information stand-point, it likely does not hurt to have it on record and at least be an indicator of how many we get in a year and on what models, etc. 
+
+"
+25-024,2025-02-20 00:00:00,Production,Chill-Out Chair,,Missed order 
+25-025,2025-02-21 00:00:00,Production,Chill-Out Chair,,advised to update esd to Feb 21 but file never cameback to production
+25-026,2025-02-21 00:00:00,Inside Sales ,DCP,,"broken triangular nameplate, which most likely was 3D-printed / sent picture to Mike and Dirk "
+25-027,2025-02-24 00:00:00,Customer Service,DCP,Bike Frame,Snapped Spud
+25-028,2025-02-24 00:00:00,Assembly,,,Found 1 item in inventory box 1 way clutch has 5 holes in mounting flange s/b 4 holes. only 1 found others ok.
+25-029,2025-02-24 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,"COC arrived with broken locking castor, says many of the ball bearings fell out. "
+25-030,2025-02-25 00:00:00,Customer Service,ET,Bike Drive Train,Tandem chain issue - recommend solid tensioner. 
+25-031,2025-02-26 00:00:00,Sales,ASR,Bike Seating,Seat back is starting to tear on one of Jaydene's demo. 
+25-032,2025-02-25 00:00:00,Customer Service,ET,Bike Drive Train,Chain keep coming off Believe it tandem - over facetime found the tensioner to have no spring to it.  sending solid tensioner. 
+25-033,2025-02-27 00:00:00,Customer Service,DCP,Bike Brakes,Hockey stick park brake splitting
+25-034,2025-02-27 00:00:00,Sales,,,Two kids (diffrent bike models/different ares) tipped on the bikes this week 2/24-2/28 (DCP16; AS2000)
+25-035,2025-03-07 00:00:00,Customer Service,,,"Incorrect axle shipped, reciieved longer DW axle rather than FW axle. Shop says they can cut it down to length"
+25-036,2025-03-06 00:00:00,Assembly,ASR,Bike Frame,Powder coat  uneven coverage of the coated surface (ACS)
+25-037,2025-03-06 00:00:00,Assembly,ASR16,,Disc Brake hanger is not aligned 
+25-038,2025-03-06 00:00:00,Customer Service,,,P# 3411407 & P# 2411503 not in box with other parts. 
+25-039,2025-03-06 00:00:00,Customer Service,DCP,,Bent tbar on delivery - no signs of damage
+25-040,2025-03-07 00:00:00,assembly,ASR16,,ASR16 frame middle bearing plate bent
+25-041,2025-03-10 00:00:00,Customer Service,DCP,,"Bike cover damaged by nail during shipping, I am not sure this nail is from us and likely an outside factory during transport. "
+25-042,2025-03-11 00:00:00,Customer Service,,,No SN photo
+25-043,2025-03-14 00:00:00,Assembly,DCP16,Chainguard,Blotchy paint on Chainguard (ACS)
+25-044,2025-03-18 00:00:00,Assembly,DCP,Bike Frame,raw dcp frame has steering head tube out of alignment. returned to fbrication for repair
+25-045,2025-03-19 00:00:00,Kitting,,,Pick ticket 025-25233-V6K4 is asking for both wheel reflecters AND wheel covers
+,2025-03-20 00:00:00,Shipping,AS2000,Bike Steering,As2000 has crooked headtube but was still acceptable to ship.
+25-046,2025-03-20 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,Disformed COC pommel causing irritation on users leg - sent replacement under warranty
+25-047,2025-03-21 00:00:00,Customer Service,ASR,Bike Steering,Failed ASR RS crimps on Variety trike - Hal had fixed at a bike shop. 
+25-048,2025-03-21 00:00:00,Customer Service,DCP,,"DCP16WG tipped 3 times - rider solo and turning too quick. 49lbs, 4'7"". Advised againse independent rides."
+25-049,2025-03-27 00:00:00,Assembly,COC,COC Accessories,Wrong tray arm RHS was fabricated without LHS
+25-050,2025-03-28 00:00:00,Kitting,AS/DCP,Seat Frame,AS/DCP Adult seat frames were fabricated with the wrong gauge metal for the seat-post holes.
+25-051,2025-03-28 00:00:00,Customer Service,,,Electric assist chargers do not have certification to be used in Canada - Angelene confirmed and looking into it. Customer has refused to use trike with charger unless certified to be used in Canada. 
+25-052,2025-03-28 00:00:00,ASSEMBLY,,,FRONT BRAKE KIT LISTED ON PICK TICKET IS INCORRECT FOR APPLICATION DUE TO BIKE HAVING A TILT FORK  AND USING A CALIPER BRAKE AND LEVER.
+25-053,2025-03-31 00:00:00,Kitting,DCP,Rear Steer,Rear Steers of all types continue to come in with bent/mishaphen T-bar clamps which blocks the T-bar from being able to be attached to the rear steer.
+25-054,2025-03-31 00:00:00,Customer Service,,,Wrong instructions shipped with parts order for solid tensioner. 
+25-055,2025-03-31 00:00:00,Fab,,Front Seat Mount,Received parts from vendor with old rev - PN3614423
+25-056,2025-04-01 00:00:00,Customer Service,,,CAT3 form submitted however Sydni never recieved an email notification. 
+25-057,2025-04-01 00:00:00,Customer Service,DCP,Bike Accessories,"Changed footplates on existing order and sent email on 03/10 to advise of the change in GP, trike shipped 03/25 with the original incorrect footplates. Also, no SN photo but we are just at the week as of today. "
+25-058,2025-04-02 00:00:00,Kitting,AS ,Rear Steer,Rear Steers from central sandblast have been coming back with paint issues and scuffs. unsure if this is a paint issue or a shipping/receiving issue.
+25-059,2025-04-03 00:00:00,ASSEMBLY,,,PART NUMBER 5012261 CRANK ECCENTRIC IS NOT ON PICK LIST SHOULD BE FOR ALL ASR MODELS.
+25-060,2025-04-03 00:00:00,Customer Service,ASR,Bike Drive Train,ASR2011 had loose spokes causing a poping and cracking noise - resolved
+25-061,2025-04-03 00:00:00,Customer Service,,,"Provided DW axle instead on FW axle on local parts order, I noticed before causing any issues. I checked the bins and FW & DW axles were in the incorrect bins, or miss labeled. I spoke with Carol, I believe this bin labels have been corrected. "
+25-062,2025-04-03 00:00:00,Customer Service,,,New stationary how to video too large to put on our FCI website
+25-063,2025-04-03 00:00:00,kitting,DCP,,"seat frames from fab have 16 gauge 1"" seat tube holder. should be 18 gauge to fit seat post (#2414330)"
+25-064,2025-04-04 00:00:00,Sales,,,QR code on a round tube does not work (demo bike)
+25-065,2025-04-08 00:00:00,ASSEMBLY,,,BIKE SERIAL NUMBER 2250283 PARTS NUMBER 5012261 AND 5012504 NOT ON PICK LIST
+25-066,2025-04-08 00:00:00,Assembly,Dcp Mini,Bike Frame,Uneven coating (ACS)
+25-067,2025-04-09 00:00:00,Customer Service,Chill-Out Chair,COC Cover,COC has issue with stitched seam on cover on delivery
+25-068,2025-04-09 00:00:00,Customer Service,Chill-Out Chair,Bike Accessories,COC tray damaged on delivery
+25-069,2025-04-09 00:00:00,Customer Service,AS,Multiple,Trike arrived damaged
+25-070,2025-04-09 00:00:00,Customer Service,ASR,Bike Drive Train,"Chain loosening off on ASR16, suspected eccentric BB issue on early ecc build."
+25-071,2025-04-09 00:00:00,Customer Service,AS,Bike Steering,Trike arrived with ball joint missing from tie rod end
+25-072,2025-04-10 00:00:00,Customer Service,DCP,Bike Steering,"Trike arrived with ball joint missing from tie rod end - reported by James, says was never there since being delivered. "
+25-073,2025-04-11 00:00:00,Customer Service,DCP,Bike Steering,1 bolt stem loose on newly delivered trike & rh handle bar moving freely.
+25-074,2025-04-11 00:00:00,Customer Service,ASR,Bike Drive Train,Loose spokes on both rear wheels
+25-075,2025-04-11 00:00:00,Customer Service,ASR,Bike Accessories,"On/off not able to be set, stuck in FW.  Plunger damaged"
+25-076,2025-04-11 00:00:00,Customer Service,DCP,,Customer called and mentioned that the trike was 'super dusty' and asked if it was a new bike or old. 
+25-077,2025-04-11 00:00:00,Customer Service,,,No SN photo
+25-078,2025-04-14 00:00:00,Customer Service,,,No SN photo
+25-079,2025-04-15 00:00:00,ASSEMBLY,,,CANDY BLUE EHDO-U BAR FROM ACS POOR PAINT QUALITY
+25-080,2025-04-15 00:00:00,Customer Service,Chill-Out Chair,COC Accessories,Failed Rock'er base rod
+25-081,2025-04-15 00:00:00,Production,Various,Bike Steering,"4 12.5IN Ubars, red, picked up April 14 from ACS, inspected today, showed minor flaws; fisheyes, fading paint.  Discussed with TP who directed me to an assembler. Discussed with JV, said we could use them by obscuring the flaws by decal placement or orientation of the bar. "
+25-082,2025-04-16 00:00:00,Customer Service,,,"Wrong nut sent on parts order, it will not thread onto the bottom of the RS handle. Confirmed with Iain the p# is correct, but there is no set bin location. "
+25-083,2025-04-16 00:00:00,Customer Service,Chill-Out Chair,,COC arrived damaged
+25-084,2025-04-16 00:00:00,Customer Service,ASR,,"Continued issues with this parts order. We shipped a pulley and RS handle, customer not able to install and asked if he should hammer it on or press fit. I spoke with John who says the handle and pulley need to be prepped as they do not fit toghther as is. "
+25-085,2025-04-21 00:00:00,Customer Service,,,"Parts order - backrest extension recieved with no thumb screws, no washers and only 8 wood screws"
+25-086,2025-04-22 00:00:00,Customer Service,DCP,,"Rear steer clamp on tbar tightened very tight and crushed the tbar, unable to easlily remove and visually looks poor quality. "
+25-087,2025-04-22 00:00:00,Kitting,,,locations given were old templates and not updated
+25-088,2025-04-24 00:00:00,Customer Service,,,Missing hardware P# 4040981 on rocker base order
+25-089,2025-04-24 00:00:00,Customer Service,DCP,Bike Accessories,"Damaged lateral on demo trike, unknown cause. "
+25-090,2025-04-28 00:00:00,Customer Service,Chill-Out Chair,COC Cover,"Customer switched fabric when ordering, not noticed by order entry. Chair went out with incorrect cover. "
+25-091,2025-04-28 00:00:00,Customer Service,ASR,Bike Accessories,Trike arrived with missing leg brace 
+25-092,2025-04-29 00:00:00,Customer Service,DCP,Bike Accessories,"canopy not recieved with trike, missing in SN image. "
+25-093,2025-05-02 00:00:00,Production,,,"Missing ""Built By"" tags on bikes"
+25-094,2025-05-02 00:00:00,Customer Service,ET,,"ET2611 arrived damaged, should be able to repair locally. "
+25-095,2025-05-05 00:00:00,Customer Service,DCP Mini,,Bike arrived with wrong nameplate  
+25-096,2025-05-06 00:00:00,Customer Service,,,Received small footplates not med
+25-097,2025-05-06 00:00:00,Customer Service,AS2011,Bike Accessories,"Ratchet strap fell off in shipping, hardeware now missing"
+25-098,2025-05-02 00:00:00,Production,,,Some DCP and chair boxes not stapled at seam so could not use
+25-099,2025-05-07 00:00:00,Customer Service,AS2000,,Crank Arm fell off the bike. This is a newer demo that has not been used often. Shipped 2025-02-04
+25-100,2025-05-08 00:00:00,Customer Service,,,"COC headrest parts order well over ESD, was supposed to ship 04/20 and the customer is very upset. This parts order was not on any locked and loaded as being pushed and upholstery advised they only recieved the paperwork this week. Unsure if they only recieve the paperwork when it is time to make it, or if it was missed causing the delay. Production was able to get it completed today and shipped quickly."
+25-101,2025-05-08 00:00:00,Assembly,,,"Frame was taken from stock, was extra frame from a while ago. return spring tab was in incorrect position had to install chain guard tab in order to allow installation of return spring."
+25-102,2025-05-08 00:00:00,Customer Service,,,Race Runner Prototype with Motion blew a tire. 
+25-103,2025-05-09 00:00:00,Customer Service,AS2000,Bike Seating,"Backrest extension missing screws, has used a different amount of screws from L to R, and the two brackets are not installed paralle which makes adjustment diffcult. "
+25-104,2025-05-12 00:00:00,Customer Service,AS,Bike Accessories,Jack Nut insert pulled out of molded footplate
+25-105,2025-05-12 00:00:00,Production,ASR,Bike Frame,ASR2011 Nrw from central sandblast has bubbling under the paint. new frame needed
+25-106,2025-05-13 00:00:00,Production,DCP,Bike Accessories,DCP12 Tilt Fork Kit does not include the front wheel with longer axle for parts orders.  If we choose to send a wheel with every DCP12 Tilt fork kit parts order then either a wheel has to be add to the order by sales or a unique kit is required for parts orders.  
+25-107,2025-05-15 00:00:00,Sales,DCP,Bike Accessories,New demo  - DCP Mini and the pedal is falling off. Will have Roger take care of it.
+25-108,2025-05-16 00:00:00,Customer Service,,,"EA battery shipped and was not correct for their harness, needed an adapter which we do not stock. Images were in the order, not sure why the incorrect battery was shipped. "
+25-109,2025-05-16 00:00:00,Customer Service,Chill-Out Chair,,COC Chair handle on the back of the chair ripped. 
+25-110,2025-05-20 00:00:00,Customer Service,,,Name decal on Bike was funder orginization not kid's name as requested 
+25-111,2025-05-20 00:00:00,Customer Service,,,"Part order was for Axle-AS/ASr FW & 20"" Solid Tir, part received rim with axle no solid tire"
+25-112,2025-05-22 00:00:00,Customer Service,DCP,Bike Accessories,"Crank arm shortener bolt was very difficult to remove, and when did get it out the threads were damaged and this hole was not able to be used again. "
+25-113,2025-05-22 00:00:00,Customer Service,ET,Bike Drive Train,Chain came off on the first ride and is now wedged in the midhub. 
+25-114,2025-05-22 00:00:00,Customer Service,ASR,,Broken footplate
+25-115,2025-05-22 00:00:00,Customer Service,,,"Trike arrived with no flag, this has been a continuing issue with JT Townsend where we miss nameplates or flags.  "
+25-116,2025-05-26 00:00:00,Customer Service,ASR,Bike Drive Train,"New trike arrived and was ridden great for two days, everything was tight. Day 3 and when she pedals, there is lot of pedal movement before engaugement. Customer inspected and found the on/off shifting on the axle, no locktite as the customer is able to loosen set screws easily, and one or all of the set screws dimples were not drilled. This is a replacement trike for the first one which was manufacured with issues and was not able to be resolved, and now their replacement trike has failed."
+25-117,2025-05-27 00:00:00,Production,,,dcp mini frame received from ACS. Bad run in paint on steering head down tube.
+25-118,2025-05-27 00:00:00,Production,,,"Received frame from paint, incorrect frame was sent due to extended AS2000 frame stored in wrong area and incorect frame picked ."
+25-119,2025-05-29 00:00:00,Production,ASR,Bike Frame,ASR2011 frame had to be modified in several areas in order for regular asssemblying to be completed. Frames should all be standardized in fabrication and not have to be modified in assembly. This is a continuous issue with all classes of frames.
+25-121,2025-06-03 00:00:00,Customer Service,EHDO,Bike Drive Train,"Customer complains that her handlecycle would not brake or go into reverse in gears 1-4, but will work find in 5th. More information is required. This trike is a sold demo which shipped directly from Creative. "
+25-122,2025-06-03 00:00:00,Customer Service,Chill-Out Chair,,Chair Cover dammaged in shipping
+25-123,2025-06-04 00:00:00,Kitting,,Ubar,"Several Ubar came back with uneven paint/blotchy (Red,HRP,) Acs"
+25-124,2025-06-05 00:00:00,Customer Service,,,Trike arrived without rear steer. It was added to the original order and I emailed all who needed to be aware but still missed. 
+25-125,2025-06-06 00:00:00,Customer Service,DCP,,Customer only receive 1 part 6312014
+25-126,2025-06-06 00:00:00,Customer Service,ASR,Bike Drive Train,"ASR2011 mud hub will not tune after numerious attempts. This trike had an issue with the outter snapring and cog popping off last year, possibly related. "
+25-127,2025-06-09 00:00:00,Customer Service,EHDO,Bike Drive Train,Hub bushing and hub cover apparently fell off during a test ride with a demo.
