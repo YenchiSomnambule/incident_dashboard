@@ -22,10 +22,19 @@ index.add(np.array(embeddings))
 # Function to draw pie chart
 def plt_pie(df, labels_col, values_col, title):
     fig, ax = plt.subplots()
-    ax.pie(df[values_col], labels=df[labels_col], autopct="%1.1f%%", startangle=90, counterclock=False)
+    wedges, texts, autotexts = ax.pie(
+        df[values_col],
+        startangle=90,
+        counterclock=False,
+        autopct='%1.1f%%',
+        textprops=dict(color="w"),
+        wedgeprops=dict(width=0.5)
+    )
+    ax.legend(wedges, df[labels_col], title=labels_col, loc="center left", bbox_to_anchor=(1, 0.5))
     ax.axis("equal")
     plt.title(title)
     return fig
+
 
 # Rules for potential causes and suggestions
 def analyze_text(text):
