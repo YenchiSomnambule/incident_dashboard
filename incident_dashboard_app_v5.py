@@ -23,12 +23,21 @@ index.add(np.array(embeddings))
 def plt_pie(df, labels_col, values_col, title):
     fig, ax = plt.subplots()
 
-    def autopct_func(pct):
-        return f"{pct:.1f}%" if pct >= 5 else ''
+    values = df[values_col]
+    labels = df[labels_col]
 
+    def autopct_func(pct):
+        return f"{pct:.1f}%" if pct >= 5 else ""
+
+    # Calculate percentages
+    total = sum(values)
+    pct_values = [(v / total) * 100 for v in values]
+    label_display = [label if pct >= 5 else "" for label, pct in zip(labels, pct_values)]
+
+    # Plot pie chart
     wedges, texts, autotexts = ax.pie(
-        df[values_col],
-        labels=df[labels_col],
+        values,
+        labels=label_display,
         autopct=autopct_func,
         startangle=90,
         counterclock=False,
@@ -39,9 +48,11 @@ def plt_pie(df, labels_col, values_col, title):
         text.set_color('white')
 
     ax.axis("equal")
-    ax.legend(wedges, df[labels_col], title=labels_col, loc="center left", bbox_to_anchor=(1, 0.5))
+    # 🛠️ Use original labels for the legend to retain all
+    ax.legend(wedges, labels, title=labels_col, loc="center left", bbox_to_anchor=(1, 0.5))
     plt.title(title)
     return fig
+
 
 
 
