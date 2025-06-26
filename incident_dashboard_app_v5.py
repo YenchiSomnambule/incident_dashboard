@@ -82,7 +82,7 @@ def analyze_text(text):
 
 # Streamlit layout
 st.set_page_config(page_title="Incident Dashboard", layout="wide")
-st.title("📊 Engineering Incident Dashboard + 🔍 Case Search")
+st.title("Engineering Incident Dashboard + Case Search")
 
 tab1, tab2, tab3 = st.tabs(["📈 Insights", "🔍 Similarity Search", "📂 Raw Data"])
 
